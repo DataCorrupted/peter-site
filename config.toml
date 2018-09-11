@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Rong's Home"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,27 +50,28 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Yuyang(Peter) Rong"
+  role = "Undergraduate in Computer Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ 
+    { name = "ShanghaiTech University", url = "http://www.shanghaitech.edu.cn/" },
+    { name = "School of Information Science and Technology(SIST)", url = "http://sist.shanghaitech.edu.cn/"} ]
+
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "PeterRong96@gmail.com"
+  address = "393, Mid Huaixa Rd, Shanghai"
+  phone = "+86 1772105 4096"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -109,7 +110,7 @@ enableGitInfo = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -122,7 +123,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -226,23 +227,28 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fas"
-    link = "mailto:test@example.org"
+    icon_pack = "fa"
+    link = "mailto:PeterRong96@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/PeterRong96"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/peter-rong-648109127/"
+
+   [[params.social]]
+     icon = "facebook"
+     icon_pack = "fab"
+     link = "https://www.facebook.com/profile.php?id=100011167324159&ref=bookmarks"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/gcushen"
+    link = "//github.com/DataCorrupted"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -263,11 +269,6 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -327,13 +328,13 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[languages.zh]
+  languageCode = "zh-Hans"
+  title = "TODO"
+  [languages.zh.params]
+    name = "Peter Rong"
+    role = "TODO"
+  [[languages.zh.menu.main]]
+    name = "TODO"
+    url = "#about"
+    weight = 1

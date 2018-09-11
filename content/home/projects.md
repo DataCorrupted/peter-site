@@ -13,7 +13,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "projects"
 
 # View.
 # Customize how projects are displayed.
@@ -32,11 +32,11 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
-#
+
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
+#   name = "Vision"
+#   tag = "vision"
+
 # [[filter]]
 #   name = "Other"
 #   tag = "Demo"
