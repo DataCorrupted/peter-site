@@ -10,7 +10,7 @@ title = ""
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 50
 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # See `config.toml` for more info on available icons.
