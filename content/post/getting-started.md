@@ -6,9 +6,9 @@ lastmod = 2018-01-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Hugo", "Academic"]
+authors = ["George Cushen"]
 
-tags = ["George Cushen"]
+tags = ["tech"]
 summary = "Create a beautifully simple website or blog in under 10 minutes."
 
 [header]

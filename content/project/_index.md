@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Projects"
 date = 2017-01-01T00:00:00
 math = false
 highlight = false
@@ -13,10 +13,6 @@ list_format = 1
 [header]
 image = ""
 caption = ""
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
 +++
 
-All my blogs goes here.
+All my projects goes here.
