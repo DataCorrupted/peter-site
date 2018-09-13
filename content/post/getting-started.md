@@ -12,7 +12,7 @@ tags = ["tech"]
 summary = "Create a beautifully simple website or blog in under 10 minutes."
 
 [header]
-image = "post/getting-started.png"
+image = "post/getting-started/getting-started.png"
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 +++
