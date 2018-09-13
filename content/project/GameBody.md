@@ -9,7 +9,7 @@ title = "GameBody"
 summary = "A game designed to stretch your body using your webcam and Computer Vision."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project/GameBody.jpg"
+image_preview = "project/GameBody/GameBody.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
