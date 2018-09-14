@@ -1,6 +1,6 @@
 +++
 title = "Posts"
-date = 2017-01-01T00:00:00
+date = 2018-09-10T00:00:00
 math = false
 highlight = false
 
@@ -13,9 +13,6 @@ list_format = 1
 [header]
 image = ""
 caption = ""
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
 
 +++
 
