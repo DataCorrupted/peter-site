@@ -13,7 +13,7 @@ image_preview = "project/STAR-ABB/STAR-ABB.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["vision", "robotics", "networking"]
+tags = ["vision", "robotics", "networking", "selected"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/DataCorrupted/GamBody_src"
@@ -32,6 +32,8 @@ Wheel robots like Husky may provide great mobility, yet it lacks the ability to 
 
 Thus, with the joint effort with STAR Lab(Now MARS Lab) and ABB Group, we produced this robot as our course project in graduate level course Robotics. The first version was build from [Yumi](https://new.abb.com/products/robotics/industrial-robots/yumi) and [Husky](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/). We would like to point out that the manipulator Yumi provided by ABB is very powerful and user-friendly, it helped us a lot.
 
-The project involves multiple disciplines in Computer Science, Electrical Engineering and even Mechanical Engineering. For mobile robot, we have to deal with mapping, navigation and provide computational power. For Yumi, we have to adapt it's power supply from AC to battery. The robots combined is heavier than we expected, that's when we need ME guys to help us to make sure that Yumi is fixed on Husky. Finally, two robotics runs on different systems, we hacked Husky to run Ubuntu 1604, yet Yumi has a ABB built OS. We used network to help them communicate.
+Such robotics involves multiple disciplines in Computer Science, Electrical Engineering and even Mechanical Engineering. For mobile robot, we have to deal with mapping, navigation and provide computational power. For Yumi, we have to adapt it's power supply from AC to battery. The robots combined is heavier than we expected, that's when we need ME guys to help us to make sure that Yumi is fixed on Husky. Finally, two robotics runs on different systems, we hacked Husky to run Ubuntu 1604, yet Yumi has a ABB built OS. We used network to help them communicate.
 
-You may see more details in our [project page](robotics.shanghaitech.edu.cn). But unfortunately, it's not working now. You may also see a demo on [YouTube](https://www.youtube.com/watch?v=QTBZvm4LgKQ)/[bilibili](https://www.bilibili.com/video/av25993612?from=search&seid=14391233130440824408) when we finished the first stage. 
+This project started off as our course project, and we applied the result with ABB's robot. It earned us a 9-month internship. During my intern, I took care of the mapping and navigation. I also wrote a state machine to help manage all the stages in the transaction.
+
+You may see more details in our [project page](robotics.shanghaitech.edu.cn). But unfortunately, it's not working now. You may also see a demo on [YouTube](https://www.youtube.com/watch?v=QTBZvm4LgKQ)/[bilibili](https://www.bilibili.com/video/av25993612?from=search&seid=14391233130440824408) which shows you the first version of our robot. 
