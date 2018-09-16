@@ -54,27 +54,9 @@ Whichever reason it may be, I am lucky that I have passed that painful time(and 
 
 Maybe that's the reason I have always preferred Uncle Sam over China. 
 To me, China, it's society, Government, cities and everything look like a tiring other half. 
-You argue, you fight, you struggle(And with a 'democracy' government, I lose every time).
+You argue, you fight, you struggle(And with a 'democracy' government, off course I lose every time).
 You get tired, you stop fighting and all you want now is to cut loose.
-Yet, U.S., is like shiny ones you bump into in street.
+Yet, U.S., is like charming ones you bump into in street.
+And 10 Weeks of life in LA flashed by. 
+What I have been thinking is if I can make another home here.
 
-I suppose that is what I wanted to find in LA except for 5 recommendation letters.
-To tell if the pretty Uncle is what it looks like. 
-And, as you would expect, it is not.
-
-Freedom is not about vote, it's about believing.
-Here you can feel the belief in American's blood.
-Belief that they are free. 
-As they wouldn't fear what cannot be said because of the prohibition from the Authority.
-As they have the First **Condiment** protecting them.
-Belief that they can make a difference.
-I feel this most when talk to my supervisor Lixia. 
-She holds a firm belief that what we are working on can change the world.
-
-Yet, belief happens to be what I don't have.
-Stopped believing for a long time.
-Lost faith in China, in my hometown, in everything but me.
-I guess that's why I feel that I am homeless.
-And feel the word _homeward_ is just a null pointer for me.
-
-Should I have anything to do besides all the internship and application and GRE test. Let's hope I can find that belief and make a home at US.
