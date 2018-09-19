@@ -46,11 +46,9 @@ Well if you are a China Telecom's user you run into this on monthly basis becaus
 And is your communication safe? 
 Till now we still have web pages communicate when HTTP where all the data is not encrypted, meaning everyone can read it.
 
-But.
-There is always a but. 
 But do you care about that?
 No, all you need is data. 
-The simple search result from Google.
+The simple search results from Google.
 Then why bother with connection since TCP/IP is connection based?
 What we really need is a network architecture that is data based.
 And that's when you need NDN.
@@ -76,9 +74,14 @@ For each and every router in this network, the following protocol has to be pref
   <figcaption>The behavior of a router when Interest/Data packet is received</figcaption>
 </figure>
 
-### Introduction to OpenmHealth
+### OpenmHealth & NDNFit
 
-### Introduction to NDNFit
+OpenmHealth is a set of applications that initially proposed to do health data tracking.
+It consists of several units including Data Storage Unit(DSU), Data Processing Unit(DPU), Data 
+<figure>
+  <img src="/img/project/IdentityManager/IdentityManager.png" alt="team"/>
+  <figcaption>The architecture of NDNFit</figcaption>
+</figure>
 
 ### IdentityManager
 
