@@ -272,7 +272,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Projects"
-  url = "/project"
+  url = "#projects"
   weight = 2
 
 [[menu.main]]
@@ -292,10 +292,25 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
+[[menu.main]]
     name = "CV"
-    url = "file/cv-pdf/resume_eng.pdf"
+    identifier = "CV"
     weight = 6
+	[[menu.main]]
+		name = "3-page CV(eng)"
+		parent = "CV"
+		url = "file/cv-pdf/cv.pdf"
+		weight = 1
+	[[menu.main]]
+		name = "1-page Resume(eng)"
+		parent = "CV"
+		url = "file/cv-pdf/resume_eng.pdf"
+		weight = 2
+	[[menu.main]]
+		name = "1-page Resume(chn)"
+		parent = "CV"
+		url = "file/cv-pdf/resume_chn.pdf"
+		weight = 3
 
 # Search.
 [params.search]
