@@ -14,9 +14,6 @@ list_format = 1
 image = ""
 caption = ""
 
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
 +++
 
 All my blogs goes here.
