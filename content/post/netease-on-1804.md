@@ -66,3 +66,8 @@ However, this time it is killed(or not), there is no process trace in monitor, n
 The moment you press Alt+F4 is a tricky point. 
 If you start netease again, another client will be started and you will have a new player!
 If you do Ctrl+Alt+F4 and do a _ps_ you will see the "remaining" of your last closed netease and the music start the moment you log in!
+
+### Reference
+
+[https://blog.csdn.net/Csdoker/article/details/80462163](https://blog.csdn.net/Csdoker/article/details/80462163)
+[https://notes.ijustplay.cn/software/ubuntu-netease-cloud-music.html](https://notes.ijustplay.cn/software/ubuntu-netease-cloud-music.html)
