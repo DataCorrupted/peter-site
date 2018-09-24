@@ -1,5 +1,5 @@
 +++
-title = "Netease Cloud Music on Ubuntu 1804"
+title = "How to use Netease Cloud Music on Ubuntu 1804"
 
 date = 2018-09-20T10:12:00
 lastmod = 2018-09-20T10:12:00
@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["Ubuntu", "Netease", "Geek"]
+tags = ["Ubuntu", "Netease", "Geek", "HowTo"]
 summary = "Some fixes on Ubuntu 1804 to start Netease Cloud Music"
 
 [header]
