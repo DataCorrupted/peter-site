@@ -1,5 +1,5 @@
 +++
-title = "Netease Music on Ubuntu 1804"
+title = "Netease Cloud Music on Ubuntu 1804"
 
 date = 2018-09-20T10:12:00
 lastmod = 2018-09-20T10:12:00
@@ -8,8 +8,8 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["Ubuntu", "Netease", "CompSci"]
-summary = "Some fixes on Ubuntu 1804 to start Netease Music"
+tags = ["Ubuntu", "Netease", "Geek"]
+summary = "Some fixes on Ubuntu 1804 to start Netease Cloud Music"
 
 [header]
 image = "post/netease-on-1804/netease-on-1804.png"
@@ -22,7 +22,7 @@ Just updated it to 1804 with all the fancy features.
 I was so happy about all the changes, especially GNORM desktop, until I found that [netease music](https://music.163.com/) cannot start.
 (Yes, there is desktop version for Ubuntu 1604 and you can download it [here](https://music.163.com/#/download))
 After some searching I found some workout, and here I record them.
-Unfortunately, only the _"Why it worked" fix_ worked on me.
+Unfortunately, after evaluating I still picked the _"Why it worked" fix_ worked on me.
 
 ## ["Why it worked" fix](https://blog.csdn.net/Csdoker/article/details/80462163)
 
@@ -55,6 +55,8 @@ Doing so should fix the problem:
 ```shell
 sudo chown -R <user-name> /tmp/*
 ```
+
+Tempting as this might seems to be, this one **didn't** solve my problem.
 
 ## Feature or Bug
 
