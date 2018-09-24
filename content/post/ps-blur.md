@@ -116,3 +116,7 @@ In case you want to delete the previous blur effects, do as the following image:
 <figure>
   <img src="/img/post/ps-blur/3-3.png" alt="team"/>
 </figure>
+
+### Reference
+
+[https://www.photoshopessentials.com/photo-effects/radial-blur-action-effect-photoshop/](https://www.photoshopessentials.com/photo-effects/radial-blur-action-effect-photoshop/)
