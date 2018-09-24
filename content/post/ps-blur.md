@@ -1,14 +1,14 @@
 +++
 title = "How to PhotoShop a blurred image as backgournd"
 
-date = 2018-09-20T10:12:00
-lastmod = 2018-09-20T10:12:00
+date = 2018-09-24T22:12:00
+lastmod = 2018-04-20T22:12:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["PhotoShop", "Geek"]
+tags = ["PhotoShop", "Geek", "HowTo"]
 summary = "Some simple tricks to do a cool blurred image backgournd"
 
 [header]
