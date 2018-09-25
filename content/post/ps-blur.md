@@ -70,7 +70,7 @@ Select them all(Ctrl + A), copy(Ctrl + C).
 
 ### First paste
 After pasting adjust the height of the image by input 480px in the right box.
-Click V or select Move Tool in the upper left to adjust the image to the center of your canvas.
+Press V or select Move Tool in the upper left to adjust the image to the center of your canvas.
 There will be a pink line to guide you when you are close the the center.
 
 <figure>
@@ -94,6 +94,7 @@ This is a PS detail that the layer in the button will be hidden by the upper lay
 
 ## Step 3: Blur it!
 Convert the second layer to _Smart Object_ as the figure below does.
+(Layer -> Left click right most buttom which has 3 bars -> Convert to Smart Objects)
 <figure>
   <img src="/img/post/ps-blur/3-0.png" alt="team"/>
 </figure>
@@ -113,6 +114,7 @@ You can also add multiple blurs to get more interesting effects.
 Now re-click the eye of the first layer, Woola, you are done!
 
 In case you want to delete the previous blur effects, do as the following image:
+(Right click filter->Delete Smart Filter)
 <figure>
   <img src="/img/post/ps-blur/3-3.png" alt="team"/>
 </figure>
