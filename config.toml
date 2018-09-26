@@ -312,6 +312,35 @@ enableGitInfo = false
 		url = "file/cv-pdf/resume_chn.pdf"
 		weight = 3
 
+[[menu.main]]
+  name = "UsefulLinks"
+  weight = 7
+  [[menu.main]]
+    name = "Blizzard :)"
+    parent = "UsefulLinks"
+    url = "http://blizzard.com"
+    widget = 1
+  [[menu.main]]
+    name = "Java"
+    parent = "UsefulLinks"
+    url = "https://docs.oracle.com/javase/tutorial/"
+    widget = 2
+  [[menu.main]]
+    name = "Rust"
+    parent = "UsefulLinks"
+    url = "https://www.rust-lang.org/en-US/"
+    widget = 3
+  [[menu.main]]
+    name = "Markdown"
+    parent = "UsefulLinks"
+    url = "https://en.support.wordpress.com/markdown-quick-reference/"
+    widget = 4
+  [[menu.main]]
+    name = "C/Cpp"
+    parent = "UsefulLinks"
+    url = "http://www.cplusplus.com/doc/tutorial/"
+    widget = 5
+
 # Search.
 [params.search]
   # Search provider:
