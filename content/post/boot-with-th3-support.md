@@ -22,13 +22,7 @@ What many people don't know is that Dell Screens normally comes with a USB Hub i
 So I connected the Hub to the adapter too.
 Then the problem came: When booting, my screen works once grub starts up, yet my keyboard won't, which is connected to screen and then connects to adapter and to my computer through TB3.
 
-After some digging, here is the fix.
-
-Fire up your laptop and go into [BIOS](https://en.wikipedia.org/wiki/BIOS).
-I will not talk about how to do that, you figure it out yourself!
-For ThinkPad users, go -> -> ->
-
-And something you should know:
+First, something you should know:
 
 Thunderbolt 3 has different security modes in order to protect your device. 
 [The modes are][1]:
@@ -44,6 +38,14 @@ Since TB3 directly connects to your PCIe and an attacker can use external device
 In this case, the external malicious device can be my keyboard, my poor TP has no way to know.
 Hence, It is not safe to turn your TB3 to none safety mode. 
 And such mode are likely to be removed in the future.
+
+So here is the fix.
+
+Fire up your laptop and go into [BIOS](https://en.wikipedia.org/wiki/BIOS).
+I will not talk about how to do that, you figure it out yourself!
+For ThinkPad users, go Config -> Thunderbolt(TM) 3.
+Here I set Security level to Secure Connectioin.
+In _Support in Pre Boot Environment_ I disabled Thundetbolt(TM) device but leave USB device on so my keyboard can start up.
 
 ## Reference
 [https://en.wikipedia.org/wiki/Thunderbolt_(interface)](https://en.wikipedia.org/wiki/Thunderbolt_(interface))
