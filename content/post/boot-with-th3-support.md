@@ -1,5 +1,5 @@
 +++
-title = "How to boot with Thunderbolt 3 support(On TP)"
+title = "How to boot with Thunderbolt 3 support"
 
 date = 2018-09-25T22:58:00
 lastmod = 2018-09-25T22:58:00
@@ -25,7 +25,7 @@ Then the problem came: When booting, my screen works once grub starts up, yet my
 First, something you should know:
 
 Thunderbolt 3 has different security modes in order to protect your device. 
-[The modes are][1]:
+The modes are:
 
 * none (or legacy): just accept any device plugged in
 * user: user needs to authenticate the device
@@ -44,8 +44,13 @@ So here is the fix.
 Fire up your laptop and go into [BIOS](https://en.wikipedia.org/wiki/BIOS).
 I will not talk about how to do that, you figure it out yourself!
 For ThinkPad users, go Config -> Thunderbolt(TM) 3.
-Here I set Security level to Secure Connectioin.
-In _Support in Pre Boot Environment_ I disabled Thundetbolt(TM) device but leave USB device on so my keyboard can start up.
+Here I set Security level to Secure Connection.
+In _Support in Pre Boot Environment_ I disabled Thunderbolt(TM) device but leave USB device on so my keyboard can start up.
+In terms of _Wake by Thunderbolt(TM)3_, the description is: 
+"Enable or disable Wake Feature with Thunderbolt(TM) 3 Port. If you select Enabled, the
+battery life during low power state may become shorter." 
+I couldn't find anything about this feature but [this post](http://thinkdeploy.blogspot.com/2017/02/new-thinkpad-bios-settings-for.html) which basically repeats the BISO description verbatim.
+But for the sake of my battery, I disabled it anyway.
 
 ## Reference
 [https://en.wikipedia.org/wiki/Thunderbolt_(interface)](https://en.wikipedia.org/wiki/Thunderbolt_(interface))
@@ -53,3 +58,5 @@ In _Support in Pre Boot Environment_ I disabled Thundetbolt(TM) device but leave
 [https://eischmann.wordpress.com/2017/06/29/thunderbolt-security-levels-and-linux-desktop/](https://eischmann.wordpress.com/2017/06/29/thunderbolt-security-levels-and-linux-desktop/)
 
 [https://christian.kellner.me/2017/12/14/introducing-bolt-thunderbolt-3-security-levels-for-gnulinux/](https://christian.kellner.me/2017/12/14/introducing-bolt-thunderbolt-3-security-levels-for-gnulinux/)
+
+[http://thinkdeploy.blogspot.com/2017/02/new-thinkpad-bios-settings-for.html](http://thinkdeploy.blogspot.com/2017/02/new-thinkpad-bios-settings-for.html)
