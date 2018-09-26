@@ -4,9 +4,6 @@
 [submodule "static/file/curriculum-vitae"]
 	path = static/file/curriculum-vitae
 	url = git@github.com:DataCorrupted/curriculum-vitae.git
-[submodule "static/file/--force"]
-	path = static/file/--force
-	url = https://github.com/DataCorrupted/curriculum-vitae
 [submodule "static/file/cv"]
 	path = static/file/cv
 	url = git@github.com:DataCorrupted/curriculum-vitae.git
