@@ -333,7 +333,7 @@ enableGitInfo = false
   [[menu.main]]
     name = "Markdown"
     parent = "UsefulLinks"
-    url = "https://en.support.wordpress.com/markdown-quick-reference/"
+    url = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
     widget = 4
   [[menu.main]]
     name = "C/Cpp"
