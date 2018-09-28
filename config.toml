@@ -238,7 +238,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = "https://www.linkedin.com/in/peter-rong-648109127/"
+    link = "https://www.linkedin.com/in/yuyang-peter-rong-648109127/"
 
    [[params.social]]
      icon = "facebook"

@@ -15,10 +15,10 @@ weight = 40
 
 +++
 
-[**2018 Spring: CS110**](http://shtech.org/course/ca/18s/): Computer Architecture I, TA
+[**CS110(18Spring)**](http://shtech.org/course/ca/18s/): Computer Architecture I, TA
 
-**2017 Fall: SI100C**: Introduction to Computer Science Leading, TA
+**SI100C(17Fall)**: Introduction to Computer Science Leading, TA
 
-**2017 Spring: SI100**: Introduction to Information Science and Technology, TA
+**SI100(17Spring)**: Introduction to Information Science and Technology, TA
 
-**2016 Fall: CS100**: Introduction to Programming, TA
+**CS100(16Fall)**: Introduction to Programming, TA
