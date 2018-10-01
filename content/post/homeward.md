@@ -59,7 +59,8 @@ So I asked, "Why do you think so."
  But you have to know the price it take to get feed. 
  We lost freedom and we have to stand in line to listen to whatever our government has to say.
  And to fight for freedom many even lost their lives 30 years ago.
-"  
+" 
+I added, had to make sure his not misunderstanding anything.
 
 "
  Yeah, I know the democracy stuff, but there is no such a system that works for all. 
@@ -68,8 +69,7 @@ So I asked, "Why do you think so."
 
 He backed off(can't argue democracy with white I suppose), but my interest didn't.
 So I kept asking why he thought we have a "great" government.
-And he kept talking.
-He talked about our super projects like high-speed rail way, the Belt and Road, our investment in Aferica.
+Then he continued to talk about our super projects like high-speed railway, the Belt and Road, our investment in Aferica.
 
 "
  These are just projects we did to show off.
@@ -82,7 +82,7 @@ He talked about our super projects like high-speed rail way, the Belt and Road, 
 Sadly, his knowledge of China all came from a program he watched.
 A program that "happen" to be made by out party.
 So my fear was true.
-Instantly I almost felt responsible to change his thought.
+Instantly I almost felt responsible to change his mind about China.
 
 "Did you know that our president just become emperor?" I never shared this with anyone that is not Chinese.
 Because this is too shameful.
@@ -105,8 +105,8 @@ Telling people that our congress passed the bill that the president can stay for
 Can't save him. 
 That's what I told myself.
 
-That moment, I know, as long as our Xi the Great is there, there is no coming back for me.
-And it's not strange that I had a hard time appreciating Chinese politics and culture.
+That moment, I know, as long as our _Xi the Great_ is there, there is no coming back for me.
+It's not strange that I had a hard time appreciating Chinese politics and culture.
 When other kids were reading _Romance of the Three Kingdoms_, my first long novel was actually [_Doomsday Book_](https://en.wikipedia.org/wiki/Doomsday_Book_(novel)) by [Connie Willis](https://en.wikipedia.org/wiki/Connie_Willis). 
 It is a good science fiction which won both [_Nebula Award_](https://en.wikipedia.org/wiki/Nebula_Award) and [_Hugo Award_](https://en.wikipedia.org/wiki/Hugo_Award), yet until 2016 only 23 novels can won both. 
 That's how I know [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven), by reading through that 23 novels(Except that I have already finished _Doomsday Book_). 
@@ -117,7 +117,7 @@ We do learn Chinese, History and Politics in Middle school.
 But I was reading _The Summer of 1787, The Men who Made the Constitution_ by then. 
 I have to say that the history and politics education in China is such a failure that it can barely brought anyone's interest. 
 After all, the story of how the world's great nations constitution is made is way more funny than the importance of the foundation of our party. 
-The educators may forget that human beings memorize stories better than bullet points.
+The educators may have forgotten that human beings memorize stories better than bullet points.
 Or they just want to brainwash everyone to follow our party's lead. 
 Whichever reason it may be, I am lucky that I have passed that painful time(and got a low score on Politics & History).
 
@@ -129,30 +129,31 @@ So which city I would prefer?
 The first answer I canceled out is Shanghai.
 The city has many flavors. 
 For many people that's a huge up.
-But for me, it's mainly spicy.
-
+But for me, Shanghai tastes spicy and it's a down.
 It was last summer. 
-My friends just came back from they 5-week trip to UCB.
-We joked, you got to pick the dinner, as we are not sure which one you miss most.
+My friends just came back from their 5-week trip to UCB.
+We joked, you got to pick the dinner, as we are not sure which one you miss the most.
 
 **Hotpot** of course.
 Spicy kind.
 
 To be honest I am a little bit against hotpot.
 Because you cannot put everything into a pot and call it a meal.
-I believe every kind of food deserves a special treat that fits them, not put together and mixed with each other.
-Another thing I have to go against is spicy.
+I believe every kind of food deserves a special cuisine that fits them, not put together and mixed with each other.
+Another thing I must go against is spicy.
 It's so strong that it covers other flavors.
 Leaving nothing but spicy itself, like a fire.
+Making me feel anything is pointless if it's spicy. 
+After all, what's the point of tasting them if they just taste like anything else.
 
 Anyway, they picked hotpot. 
-We did had a great time and I had a lot of spicy meat.
+We had a great time and I had a lot of spicy meat.
 That was a memorable night for me.
 
 For my stomach, that's a whole different story.
 Got so unconformable that I barely ate anything the next day.
 From then on, I decided to never have spicy hotpot anymore.
-I would refuse my friends invitation, avoid them myself.
+I would refuse my friends' invitation no matter what.
 
 Yet, it's hard to avoid spicy things in Shanghai.
 Even in ShanghaiTech's canteen when I order chicken I got spicy ones because the cook did that by default.
@@ -180,7 +181,7 @@ Maybe Taizhou would be a good home for me when I am old.
 But get packed in this 13-hour long train trip from Beijing I am afraid there is no way home for now.
 
 The first si-fi TV program I watched was _Fringe_. 
-In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assumed that there is a parallel universe that are almost the same.
+In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assume that there is a parallel universe that are almost the same.
 (We use _the other xx_ and _our xx_ to distinguish things between two universes.) 
 And they are in war.
 In the final episode of Season 3, the two universes finally made peace and they are shutting down the portal to each other.
@@ -191,30 +192,31 @@ Before the portal was shut down, Lincoln was standing on the other side of the p
 
 **"Home is where heart is."**, Lincoln replied, short but powerful.
 
-Then I started to examine where my heart is.
-If I cannot find a city to place it, will someone qualified enough to take that job?
+That is the most beautiful words you can ever say to a girl.
+So I started to examine where my heart is.
+If I cannot find a city to place it, will someone qualified enough to do the job?
 My heart was broken by a girl in my first winter in Shanghai.
 I have to admit that I was an asshole and I did her wrong.
 Yet I was young and naive and still got hurt.
 So I spent the next year or two fixing my life.
 And while doing that I may broke someone else's hearts too.
 
-Once at time, almost simultaneously, I liked a girl and someone else had crush on me.
+Once upon a time, almost simultaneously, I liked a girl and someone else had crush on me.
 And out of all odds, both of them are students in ShanghaiTech.
 I was too afraid to choose, too afraid to lose.
 What if I am still that asshole?
 Sure it didn't ended well.
-And for what I know, my reputation was just as bad among their friends. 
-So it official that I am an asshole now. :) 
+And for what I know, my reputation was ruined.
+So it's official that I am an asshole now. :) 
 (At least no more worries about that anymore)
 
 Maybe that's part of everyone's life. 
-Like I once said, you cannot get what you want and only possess what you don't care.
-**And most relationships turn into a set of compromise.**
+Like I once said, 
+**you cannot get what you want and only possess what you don't care and most relationships turn into a set of compromise.**
 This was inspired by the _reacher theory_ in _How I Met Your Mother_.
-There is always a reacher and a settler, isn't it?
+There is always a reacher and a settler in any relationship, isn't it?
 
-Time flies into 2018 and I am finally ready to start over again.
+Time flies into the late 2017 and I am finally ready to start over again.
 I met her in the lift.
 It always embarrassing for two acquaintance got left along in the lift.
 You have no idea what topic to talk.
@@ -222,7 +224,7 @@ But she started first.
 
 "I heard you got yourself a scholarship." She said it like I just got a decent meal instead of a scholarship.
 
-"Yeah, it's just I got someone to pay for my bill, I got better last year." 
+"Yeah, it's just I got someone to pay for my bill, I got better last year. I was sloppy this year." 
 
 "I believe you would get better, and for what's worth, it's always better than nothing." She said, "I got nothing this year." But she was smiling.
 
@@ -235,25 +237,26 @@ I was in thoughts that night.
 What I have encountered those days was people bumping into me and congratulating me for **earning** that money when deep inside I was not happy at all.
 She skipped the annoying part and directly get to the point.
 Instead of fake congrats she said it would be better.
+I mean, you don't run into people that dare to tell the truth nowadays anymore.
 I was so moved that late that night I shared my thoughts and thanked her.
 
 Days later I was still thinking about this.
 That's when I knew I had a crush on her.
-Then I started to get to know here.
+Then I started to get to know her.
 She hates spicy food just like me. 
 Likes dog and Japanese food, treats life with optimization.
 Everything I could dreamed of.
 
 Finally I dated her our.
 Well, not a date for her.
-I planned for days and everything began to fall apart from the first second.
+I planned for days but everything began to fall apart from the first second.
 She didn't see my rose coming and she thought it was just a casual dinner as a friend.
+I am not sure how can I describe the night, nor what she would felt about it.
 But I send her home anyway even though I got _friended_.
-I am not sure how can I describe the night.
 At first I wanted it to be a night we both can remember.
-Now all I want is to forget it.
+Now all I want is to forget.
 
-At least I admire her for her honesty.
+At least I admire her for being honest.
 She told me she was onto someone else but because of his temper they couldn't get together.
 She also told me all the details that I don't really want to know as I was busy pitying myself.
 
@@ -266,13 +269,13 @@ But like a parallel program, every line of code looks just fine.
 Yet they would not function properly.
 I don't know where the bug is, nor do I have the leisure to look for it.
 And even if I find it, I am not sure if I can fix it.
-Like a rocky code, you need experienced programmer to fix it.
+Like a piece of rocky code, you need experienced programmer to fix it.
 But experienced programmer don't debug rocky code, people like Linus would simply bit your head off.
 
-Not knowing where to stay for, who to stay with.
-Even thought my destination today is Taizhou, but **I am heading nowhere.**
+Not knowing where to stay, who to stay with.
+Even thought my destination today is Taizhou, but **I am literately heading nowhere.**
 My only goal now is to apply for a grad school and try immigrate like I planned since I lost faith in middle school.
 
 Now that most application system is open, let's hope I find a home there.
 
-And good luck for everyone.
+And good luck for everyone that is applying with me.
