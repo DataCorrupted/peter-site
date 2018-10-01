@@ -17,14 +17,6 @@ caption = "Image credit: [**Marcus Warner**](https://marcuswarnermusic.bandcamp.
 
 +++
 
-<!--
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=bjdkzoLk7e8&feature=youtu.be">
-	  <img src="/img/post/homeward/homeward.png">
-  </a>
-</p>
--->
-
 While I was in Los Angeles, I found a song called _Homeward_, composed by Marcus Warner. 
 I was in love with [_Homeward_](https://marcuswarnermusic.bandcamp.com/track/homeward) at the first sight. 
 Even before listening to it, the name _Homeward_ and the picture of the album is breathtaking enough.
@@ -98,7 +90,7 @@ The fact that our vote is barely useful is embarrassing enough.
 Telling people that our congress passed the bill that the president can stay forever with no blackball is no different telling people that my mother just get raped.
 (Well, in my defense for such rude words, my "Mom China" did get raped by some money junky.)
 
-"Emperor?! Don't you have a congress or something?"
+"Emperor?! Don't you have a congress or parliament?"
  
 "
  Yeah, our congress passed the bill. 
@@ -128,3 +120,95 @@ After all, the story of how the world's great nations constitution is made is wa
 The educators may forget that human beings memorize stories better than bullet points.
 Or they just want to brainwash everyone to follow our party's lead. 
 Whichever reason it may be, I am lucky that I have passed that painful time(and got a low score on Politics & History).
+
+If I am such a failure that I cannot blend in my country, where do I belong?
+The question I proposed at the very beginning didn't get solved.
+
+The first si-fi TV program I watched was _Fringe_. 
+In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assumed that there is a parallel universe that are almost the same.
+(We use _the other xx_ and _our xx_ to distinguish things between two universes.) 
+And they are in war.
+In the final episode of Season 3, the two universes finally made peace and they are shutting down the portal to each other.
+Our Lincoln was in love with the other Olivia so decided to stay in the other side and never came back.
+Before the portal was shut down, Lincoln was standing on the other side of the portal and staring at Olivia, and our Olivia asked:
+
+"You sure you are not coming **home**?"
+
+**"Home is where heart is."**, Lincoln replied, short but powerful.
+
+Honestly, that is the most beautiful thing you can ever say to a girl.
+And it is also the fanciest sentence that can guide you home.
+Because instead of which country you belong to you can answer another question that made more sense(but also harder.)
+
+Then I started to examine where my heart is.
+
+The first answer I canceled out is Shanghai.
+The city has many flavors. 
+For many people that's a huge up.
+But for me, it's mainly bitter and spicy.
+
+My heart was broken by a girl in my first winter in Shanghai.
+I have to admit that I was an asshole and I did her wrong.
+Yet I was young and naive and still got hurt.
+So I spent the next year or two fixing my life.
+And while doing that I may broke someone else's hearts too.
+
+Once at time, almost simultaneously, I liked a girl and someone else had crush on me.
+And out of all odds, both of them are students in ShanghaiTech.
+I was too afraid to choose, too afraid to lose.
+What if I am still that asshole?
+Sure it didn't ended well.
+And for what I know, my reputation was just as bad among their friends. 
+So it official that I am an asshole now. :)
+
+Maybe that's part of everyone's life. 
+Like I once said, you cannot get what you want and only possess what you don't care.
+**And most relationships turn into a set of compromise.**
+This was inspired by the _reacher theory_ in _How I Met Your Mother_.
+There is always a reacher and a settler, isn't it?
+
+Time flies into 2018 and I am finally ready to start over again.
+She hates spicy food just like me. 
+Likes dog and Japanese food, treats life with optimization.
+Everything I could dreamed of.
+
+So I dated her our.
+Well, not a date for her.
+I planned for days and everything began to fall apart from the first second.
+She didn't see my rose coming and she thought it was just a casual dinner as a friend.
+But I send her home anyway even though I got _friended_.
+I am not sure how can I describe the night.
+At first I wanted it to be a night we both can remember.
+Now all I want is to forget it.
+
+At least I admired her honest.
+She told me she was onto someone else but because of him they couldn't get together.
+She also told me all the details that I don't really want to know as I was busy myself.
+
+She's a _reacher_, me too. 
+She don't want to settle, me too.
+
+After 3 years of struggling, the result is simple, I can barely make a home in Shanghai.
+Then how about my birthplace, Taizhou?
+My train is heading Taizhou as I write.
+I like the place, every time I got to introduce her I would do it with pride.
+Maybe that's what belonging feels like.
+
+But I couldn't stay for now.
+After  all, it's just a small town in the middle of Jiangsu that no one really cares.
+No job opportunities, no bread.
+
+The hard truth is, we are the 40th out of 200+ cities in China in terms of economy.
+But we have **no high-speed train** and we share an airport with Yangzhou.
+Oh, by the way we have no metro even though we are long qualified.
+Why? 
+I don't know.
+Maybe Taizhou would be a good home for me. 
+But get packed in this 13-hour long train trip from Beijing I am afraid there is no way home.
+
+Even though my destination is Taizhou, **I am heading nowhere.**
+I've been thinking about go immigrant to Uncle Sam since I lost faith in China in high school.
+The most critical time has come.
+This winter I am going to apply for a grad school and start the immigrant process as I long planned.
+
+Let's hope I find a home there.
