@@ -168,11 +168,36 @@ This was inspired by the _reacher theory_ in _How I Met Your Mother_.
 There is always a reacher and a settler, isn't it?
 
 Time flies into 2018 and I am finally ready to start over again.
+I met her in the lift.
+It always embarrassing for two acquaintance got left along in the lift.
+You have no idea what topic to talk.
+But she started first.
+
+"I heard you got yourself a scholarship." She said it like I just got a decent meal instead of a scholarship.
+
+"Yeah, it's just I got someone to pay for my bill, I got better last year." 
+
+"I believe you would get better, and for what's worth, it's always better than nothing." She said, "I got nothing this year." But she was smiling.
+
+I was astonished.
+I thought she got good grades last year.
+
+"You will next year." I encouraged her, and that's where she left off.
+
+I was in thoughts that night.
+What I have encountered those days was people bumping into me and congratulating me for **earning** that money when deep inside I was not happy at all.
+She skipped the annoying part and directly get to the point.
+Instead of fake congrats she said it would be better.
+I was so moved that late that night I shared my thoughts and thanked her.
+
+Days later I was still thinking about this.
+That's when I knew I had a crush on her.
+Then I started to get to know here.
 She hates spicy food just like me. 
 Likes dog and Japanese food, treats life with optimization.
 Everything I could dreamed of.
 
-So I dated her our.
+Finally I dated her our.
 Well, not a date for her.
 I planned for days and everything began to fall apart from the first second.
 She didn't see my rose coming and she thought it was just a casual dinner as a friend.
