@@ -19,27 +19,29 @@ caption = "Image credit: [**Marcus Warner**](https://marcuswarnermusic.bandcamp.
 
 While I was in Los Angeles, I found a song called _Homeward_, composed by Marcus Warner. 
 I was in love with [_Homeward_](https://marcuswarnermusic.bandcamp.com/track/homeward) at the first sight. 
-Even before listening to it, the name _Homeward_ and the picture of the album is breathtaking enough.
+Even before listening to it, the name _Homeward_ itself and the picture of the album is breathtaking enough.
 It is known that you can concatenate 'back' or 'fore' with 'ward' to show a direction. 
 That said, 'homeward' can be interpreted as 'direction home'. 
 Almost instantly that reminds me of my home.
 
 But the question is, where is it?
 
-I cannot deny that my home is in China, at least that is what I said whenever front desk in Hedrick Hall wants to verify my home address. 
-(Apparently, I forgot my Burin Card somewhere more than once. )
-And for what's worth, I might have to bear with this identity for another decade or two to get on board or simply get drunk. 
+I cannot deny that my home is in China, at least that is what I say whenever front desk in Hedrick Hall wants to verify my home address. 
+(Apparently, I forgot my Burin Card inside my dorm more than once. )
+For what's worth, I might have to bear with this identity for another decade or two to get on board or simply get drunk. 
 Cannot throw it away. But when thinking carefully, that isn't really my identity.
 
-No matter how I claim that I love my government, I can't hide the fact that I was so disappointed that I don't really care anymore. 
+No matter how I claim that I love our party, I can't hide the fact that I was so disappointed that I don't really care anymore. 
 Like your ex. 
-You can tell tones of her bad habits but you won't, unless someone tells you that she's such a great girl and then you try to save him.
+You can tell tones of her bad habits but you won't because deep down inside you don't care.
+This peace holds until someone tells you she's awesome and then you would try to save him.
 That's what happened when we bumped into a Lyft driver.
 We were going to shooting range to learn how to use a pistol.
 
 "You are Chinese!", the driver recognized us.  
 
-"Yeah?", to be honest I was a little bit awkward to be recognized as Chinese, even though I was study in _University of Chinese and Lots of Asians(UCLA)_.  
+"Yeah?", to be honest I was a little bit awkward to be recognized as Chinese, even though I was study in _University of Chinese and Lots of Asians(UCLA)_, I prefer the identity Asian or no identiy at all.
+After all, this is the land of diversity.
 
 "You know, you have an amazing government."   
 
@@ -60,7 +62,7 @@ So I asked, "Why do you think so."
  We lost freedom and we have to stand in line to listen to whatever our government has to say.
  And to fight for freedom many even lost their lives 30 years ago.
 " 
-I added, had to make sure his not misunderstanding anything.
+I added, had to make sure he is not misunderstanding anything.
 
 "
  Yeah, I know the democracy stuff, but there is no such a system that works for all. 
@@ -73,7 +75,7 @@ Then he continued to talk about our super projects like high-speed railway, the 
 
 "
  These are just projects we did to show off.
- China kept burning money on these with the sole purpose to get into your head.
+ China kept burning money on these with the solely purpose to get into your head.
  Local governments almost went bankrupted with these projects and have a debt that you cannot image.
  Guess who pays the debt at the end of the day?
  And where on earth did you learned that?
@@ -87,14 +89,13 @@ Instantly I almost felt responsible to change his mind about China.
 "Did you know that our president just become emperor?" I never shared this with anyone that is not Chinese.
 Because this is too shameful.
 The fact that our vote is barely useful is embarrassing enough.
-Telling people that our congress passed the bill that the president can stay forever with no blackball is no different telling people that my mother just get raped.
-(Well, in my defense for such rude words, my "Mom China" did get raped by some money junky.)
+Telling people that our congress passed the bill that the president can stay forever with no blackball is no different telling people that my daughter just get raped under my watch.
+(Well, in my defense for such rude words, my "Mom China" did get raped by some monkey junky.)
 
 "Emperor?! Don't you have a congress or parliament?"
  
 "
- Yeah, our congress passed the bill. 
- The president can stay there forever.
+ Yeah, our congress passed the bill allowing the president to stay there forever.
  Seriously, our congress is just a birthday party that agrees with whatever the president says.
 "
 
@@ -109,14 +110,14 @@ That moment, I know, as long as our _Xi the Great_ is there, there is no coming 
 It's not strange that I had a hard time appreciating Chinese politics and culture.
 When other kids were reading _Romance of the Three Kingdoms_, my first long novel was actually [_Doomsday Book_](https://en.wikipedia.org/wiki/Doomsday_Book_(novel)) by [Connie Willis](https://en.wikipedia.org/wiki/Connie_Willis). 
 It is a good science fiction which won both [_Nebula Award_](https://en.wikipedia.org/wiki/Nebula_Award) and [_Hugo Award_](https://en.wikipedia.org/wiki/Hugo_Award), yet until 2016 only 23 novels can won both. 
-That's how I know [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven), by reading through that 23 novels(Except that I have already finished _Doomsday Book_). 
+That's how I know [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven) when reading through that 23 novels. 
 Larry's work [_Ringworld_](https://en.wikipedia.org/wiki/Ringworld) was so fascinating that it pulled me away from _Water Margin_, and honestly, I never finish _Water Margin_. 
-I felt suck when I was told Song at last surrendered to the government and get killed so after.
+I felt suck when I was told Song at last surrendered to the government and get killed.
 
 We do learn Chinese, History and Politics in Middle school. 
 But I was reading _The Summer of 1787, The Men who Made the Constitution_ by then. 
 I have to say that the history and politics education in China is such a failure that it can barely brought anyone's interest. 
-After all, the story of how the world's great nations constitution is made is way more funny than the importance of the foundation of our party. 
+After all, the story of how the world's great nations Constitution was made is way more funny than the importance of the foundation of our party. 
 The educators may have forgotten that human beings memorize stories better than bullet points.
 Or they just want to brainwash everyone to follow our party's lead. 
 Whichever reason it may be, I am lucky that I have passed that painful time(and got a low score on Politics & History).
@@ -134,30 +135,31 @@ It was last summer.
 My friends just came back from their 5-week trip to UCB.
 We joked, you got to pick the dinner, as we are not sure which one you miss the most.
 
-**Hotpot** of course.
+**Hotpot**, of course.
 Spicy kind.
 
 To be honest I am a little bit against hotpot.
 Because you cannot put everything into a pot and call it a meal.
 I believe every kind of food deserves a special cuisine that fits them, not put together and mixed with each other.
 Another thing I must go against is spicy.
-It's so strong that it covers other flavors.
-Leaving nothing but spicy itself, like a fire.
-Making me feel anything is pointless if it's spicy. 
+I will firmly stand against it for a long time, like forever.
+It's so strong that it covers any other flavors, leaving nothing but spicy itself, like a fire.
+It makes me feel pointless about anything that is spicy.
 After all, what's the point of tasting them if they just taste like anything else.
 
 Anyway, they picked hotpot. 
-We had a great time and I had a lot of spicy meat.
+We had a great time and I had a lot of spicy beef.
 That was a memorable night for me.
 
 For my stomach, that's a whole different story.
 Got so unconformable that I barely ate anything the next day.
 From then on, I decided to never have spicy hotpot anymore.
+Many spicy foods also went up the blacklist.
 I would refuse my friends' invitation no matter what.
 
 Yet, it's hard to avoid spicy things in Shanghai.
-Even in ShanghaiTech's canteen when I order chicken I got spicy ones because the cook did that by default.
-(Later I learned that the cook came from Sichuan, for god's sake.)
+Even in ShanghaiTech's canteen when I order chicken I got spicy ones because the cook did that _by default_.
+(Later I learned that the cook came from Sichuan, oh for god's sake, we really should ban cooks that heavily rely on spicy sauce from entering kitchen.)
 Hotpot is everywhere that you can barely avoid.
 **Both eating in ShanghaiTech or out is hard.**
 So hard that I can actually lose weight in Shanghai.
@@ -174,17 +176,17 @@ No job opportunities.
 
 The hard truth is, we are the 40th out of 200+ cities in China in terms of economy.
 But we have **no high-speed train** and we share an airport with Yangzhou.
-Oh, by the way we have no metro even though we are long qualified.
+Oh, by the way we have no metro even though we have been qualified for a long time.
 Why? 
 I don't know.
-Maybe Taizhou would be a good home for me when I am old. 
+Maybe Taizhou would be a good home for me when I retire. 
 But get packed in this 13-hour long train trip from Beijing I am afraid there is no way home for now.
 
 The first si-fi TV program I watched was _Fringe_. 
-In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assume that there is a parallel universe that are almost the same.
-(We use _the other xx_ and _our xx_ to distinguish things between two universes.) 
+In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assumes that there is a parallel universe that are almost the same.
+(We use _the other xx_ and _our xx_ to distinguish people and things between two universes.) 
 And they are in war.
-In the final episode of Season 3, the two universes finally made peace and they are shutting down the portal to each other.
+In the final episode of Season 3, the two universes finally made peace and they were shutting down the portal to each other.
 Our Lincoln was in love with the other Olivia so decided to stay in the other side and never came back.
 Before the portal was shut down, Lincoln was standing on the other side of the portal and staring at Olivia, and our Olivia asked:
 
@@ -196,10 +198,10 @@ That is the most beautiful words you can ever say to a girl.
 So I started to examine where my heart is.
 If I cannot find a city to place it, will someone qualified enough to do the job?
 My heart was broken by a girl in my first winter in Shanghai.
-I have to admit that I was an asshole and I did her wrong.
+I have to admit that I was an asshole and I did her wrong and I apologize for that.
 Yet I was young and naive and still got hurt.
 So I spent the next year or two fixing my life.
-And while doing that I may broke someone else's hearts too.
+And while doing that I may have broken someone else's hearts too.
 
 Once upon a time, almost simultaneously, I liked a girl and someone else had crush on me.
 And out of all odds, both of them are students in ShanghaiTech.
@@ -224,7 +226,7 @@ But she started first.
 
 "I heard you got yourself a scholarship." She said it like I just got a decent meal instead of a scholarship.
 
-"Yeah, it's just I got someone to pay for my bill, I got better last year. I was sloppy this year." 
+"Yeah, it's just I got someone to pay for my bill, I got better last year. I was sloppy." 
 
 "I believe you would get better, and for what's worth, it's always better than nothing." She said, "I got nothing this year." But she was smiling.
 
@@ -244,16 +246,21 @@ Days later I was still thinking about this.
 That's when I knew I had a crush on her.
 Then I started to get to know her.
 She hates spicy food just like me. 
-Likes dog and Japanese food, treats life with optimization.
+Likes dog and Japanese food. 
+She's optimistic to life and kind to people.
 Everything I could dreamed of.
 
 Finally I dated her our.
 Well, not a date for her.
 I planned for days but everything began to fall apart from the first second.
 She didn't see my rose coming and she thought it was just a casual dinner as a friend.
+(
+ Come on. 
+ Seriously, who would ask a girl out on Saturday night as friend?
+)
 I am not sure how can I describe the night, nor what she would felt about it.
-But I send her home anyway even though I got _friended_.
-At first I wanted it to be a night we both can remember.
+But I walked her home anyway even though I got _friended_.
+At first I wanted it to be a night that we both can remember.
 Now all I want is to forget.
 
 At least I admire her for being honest.
