@@ -28,10 +28,10 @@ But the question is, where is it?
 
 I cannot deny that my home is in China, at least that is what I said whenever front desk in Hedrick Hall wants to verify my home address. 
 (Apparently, I forgot my Burin Card somewhere more than once. )
-And for what's worth, I might have to bear with this identity for another decade or two to get on board a flight or simply get drunk. 
+And for what's worth, I might have to bear with this identity for another decade or two to get on board or simply get drunk. 
 Cannot throw it away. But when thinking carefully, that isn't really my identity.
 
-Not matter how I claim that I love my government, I can't hide the fact that I was so disappointed that I really don't care anymore. 
+No matter how I claim that I love my government, I can't hide the fact that I was so disappointed that I don't really care anymore. 
 Like your ex. 
 You can tell tones of her bad habits but you won't, unless someone tells you that she's such a great girl and then you try to save him.
 That's what happened when we bumped into a Lyft driver.
@@ -45,9 +45,9 @@ We were going to shooting range to learn how to use a pistol.
 
 I was instantly amused.
 I've seen such stupid words in forms in China thousands of times.
-They brag about our government with their arrogance and ignorant yet provides no reason, no proof.
-Normally I would think people who say this are brainwashed by Communists and I would ignore whatever they have to say about our government.
-Yet it was the first time to hear it from an old white man and there is no way he get brainwashed too.
+They would brag about our government with their arrogance and ignorant having no reason, no proof.
+Normally I would think people who say this are brainwashed by Communists and ignore whatever they have to say about our government.
+Yet it was the first time to hear it from an old white man and I thought there is no way he get brainwashed too.
 
 So I asked, "Why do you think so."  
 
@@ -123,6 +123,61 @@ Whichever reason it may be, I am lucky that I have passed that painful time(and 
 
 If I am such a failure that I cannot blend in my country, where do I belong?
 The question I proposed at the very beginning didn't get solved.
+Even if our government is not satisfying, I can still pick a city and stay there.
+So which city I would prefer?
+
+The first answer I canceled out is Shanghai.
+The city has many flavors. 
+For many people that's a huge up.
+But for me, it's mainly spicy.
+
+It was last summer. 
+My friends just came back from they 5-week trip to UCB.
+We joked, you got to pick the dinner, as we are not sure which one you miss most.
+
+**Hotpot** of course.
+Spicy kind.
+
+To be honest I am a little bit against hotpot.
+Because you cannot put everything into a pot and call it a meal.
+I believe every kind of food deserves a special treat that fits them, not put together and mixed with each other.
+Another thing I have to go against is spicy.
+It's so strong that it covers other flavors.
+Leaving nothing but spicy itself, like a fire.
+
+Anyway, they picked hotpot. 
+We did had a great time and I had a lot of spicy meat.
+That was a memorable night for me.
+
+For my stomach, that's a whole different story.
+Got so unconformable that I barely ate anything the next day.
+From then on, I decided to never have spicy hotpot anymore.
+I would refuse my friends invitation, avoid them myself.
+
+Yet, it's hard to avoid spicy things in Shanghai.
+Even in ShanghaiTech's canteen when I order chicken I got spicy ones because the cook did that by default.
+(Later I learned that the cook came from Sichuan, for god's sake.)
+Hotpot is everywhere that you can barely avoid.
+**Both eating in ShanghaiTech or out is hard.**
+So hard that I can actually lose weight in Shanghai.
+Na, I don't think I can ever make a home here.
+
+If Shanghai doesn't work because I cannot eat what I used to, how about my birthplace, Taizhou?
+Actually my train is heading Taizhou as I write.
+I like the place, every time I got to introduce her I would do it with pride.
+Maybe that's what belonging feels like.
+
+But I couldn't stay.
+After  all, it's just a small town in the middle of Jiangsu that no one really cares.
+No job opportunities.
+
+The hard truth is, we are the 40th out of 200+ cities in China in terms of economy.
+But we have **no high-speed train** and we share an airport with Yangzhou.
+Oh, by the way we have no metro even though we are long qualified.
+Why? 
+I don't know.
+Maybe Taizhou would be a good home for me when I am old. 
+But get packed in this 13-hour long train trip from Beijing I am afraid there is no way home for now.
 
 The first si-fi TV program I watched was _Fringe_. 
 In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assumed that there is a parallel universe that are almost the same.
@@ -136,17 +191,8 @@ Before the portal was shut down, Lincoln was standing on the other side of the p
 
 **"Home is where heart is."**, Lincoln replied, short but powerful.
 
-Honestly, that is the most beautiful thing you can ever say to a girl.
-And it is also the fanciest sentence that can guide you home.
-Because instead of which country you belong to you can answer another question that made more sense(but also harder.)
-
 Then I started to examine where my heart is.
-
-The first answer I canceled out is Shanghai.
-The city has many flavors. 
-For many people that's a huge up.
-But for me, it's mainly bitter and spicy.
-
+If I cannot find a city to place it, will someone qualified enough to take that job?
 My heart was broken by a girl in my first winter in Shanghai.
 I have to admit that I was an asshole and I did her wrong.
 Yet I was young and naive and still got hurt.
@@ -159,7 +205,8 @@ I was too afraid to choose, too afraid to lose.
 What if I am still that asshole?
 Sure it didn't ended well.
 And for what I know, my reputation was just as bad among their friends. 
-So it official that I am an asshole now. :)
+So it official that I am an asshole now. :) 
+(At least no more worries about that anymore)
 
 Maybe that's part of everyone's life. 
 Like I once said, you cannot get what you want and only possess what you don't care.
@@ -206,34 +253,26 @@ I am not sure how can I describe the night.
 At first I wanted it to be a night we both can remember.
 Now all I want is to forget it.
 
-At least I admired her honest.
-She told me she was onto someone else but because of him they couldn't get together.
-She also told me all the details that I don't really want to know as I was busy myself.
+At least I admire her for her honesty.
+She told me she was onto someone else but because of his temper they couldn't get together.
+She also told me all the details that I don't really want to know as I was busy pitying myself.
 
 She's a _reacher_, me too. 
 She don't want to settle, me too.
 
-After 3 years of struggling, the result is simple, I can barely make a home in Shanghai.
-Then how about my birthplace, Taizhou?
-My train is heading Taizhou as I write.
-I like the place, every time I got to introduce her I would do it with pride.
-Maybe that's what belonging feels like.
+I think my conclusion that I just told my best friend is a good one.
+That something is wrong with me, I am buggy.
+But like a parallel program, every line of code looks just fine.
+Yet they would not function properly.
+I don't know where the bug is, nor do I have the leisure to look for it.
+And even if I find it, I am not sure if I can fix it.
+Like a rocky code, you need experienced programmer to fix it.
+But experienced programmer don't debug rocky code, people like Linus would simply bit your head off.
 
-But I couldn't stay for now.
-After  all, it's just a small town in the middle of Jiangsu that no one really cares.
-No job opportunities, no bread.
+Not knowing where to stay for, who to stay with.
+Even thought my destination today is Taizhou, but **I am heading nowhere.**
+My only goal now is to apply for a grad school and try immigrate like I planned since I lost faith in middle school.
 
-The hard truth is, we are the 40th out of 200+ cities in China in terms of economy.
-But we have **no high-speed train** and we share an airport with Yangzhou.
-Oh, by the way we have no metro even though we are long qualified.
-Why? 
-I don't know.
-Maybe Taizhou would be a good home for me. 
-But get packed in this 13-hour long train trip from Beijing I am afraid there is no way home.
+Now that most application system is open, let's hope I find a home there.
 
-Even though my destination is Taizhou, **I am heading nowhere.**
-I've been thinking about go immigrant to Uncle Sam since I lost faith in China in high school.
-The most critical time has come.
-This winter I am going to apply for a grad school and start the immigrant process as I long planned.
-
-Let's hope I find a home there.
+And good luck for everyone.
