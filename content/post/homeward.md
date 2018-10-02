@@ -13,7 +13,7 @@ summary = "After years spent in China and two month in LA, I finally realized th
 
 [header]
 image = "post/homeward/homeward.png"
-caption = "Image credit: [**Marcus Warner**](https://marcuswarnermusic.bandcamp.com/), PS-ed by me"
+caption = "Image credit: [**Marcus Warner**](https://marcuswarnermusic.bandcamp.com/), PS-ed by Peter"
 
 +++
 
@@ -115,7 +115,7 @@ Larry's work [_Ringworld_](https://en.wikipedia.org/wiki/Ringworld) was so fasci
 I felt suck when I was told Song at last surrendered to the government and get killed.
 
 We do learn Chinese, History and Politics in Middle school. 
-But I was reading _The Summer of 1787, The Men who Made the Constitution_ by then. 
+But I was reading [_The Summer of 1787: The Men Who Invented the Constitution_](https://www.amazon.com/Summer-1787-Invented-Constitution-Collection/dp/0743286936) by then. 
 I have to say that the history and politics education in China is such a failure that it can barely brought anyone's interest. 
 After all, the story of how the world's great nations Constitution was made is way more funny than the importance of the foundation of our party. 
 The educators may have forgotten that human beings memorize stories better than bullet points.
@@ -174,7 +174,7 @@ But I couldn't stay.
 After  all, it's just a small town in the middle of Jiangsu that no one really cares.
 No job opportunities.
 
-The hard truth is, we are the [38th out of 200+ cities in China](https://en.wikipedia.org/wiki/List_of_Chinese_prefecture-level_cities_by_GDP) in terms of economy development.
+The hard truth is, we are the [38th out of 200+ cities in China in 2017](https://en.wikipedia.org/wiki/List_of_Chinese_prefecture-level_cities_by_GDP) in terms of economy development.
 But we have **no high-speed train** and we share an airport with Yangzhou.
 Oh, by the way we have no metro even though we have been qualified for a long time.
 Why? 
@@ -256,7 +256,7 @@ I planned for days but everything began to fall apart from the first second.
 She didn't see my rose coming and she thought it was just a casual dinner as a friend.
 (
  Come on. 
- Seriously, who would ask a girl out on Saturday night as friend?
+ Who would ask a girl out on Saturday night as friend?
 )
 I am not sure how can I describe the night, nor what she would felt about it.
 But I walked her home anyway even though I got _friended_.
