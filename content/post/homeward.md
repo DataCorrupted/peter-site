@@ -1,8 +1,8 @@
 +++
 title = "Homeward"
 
-date = 2018-10-01T21:22:00
-lastmod = 2018-10-02T04:00:00
+date = 2018-10-01T22:58:00
+lastmod = 2018-10-02T08:58:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -31,7 +31,7 @@ I cannot deny that my home is in China, at least that is what I say whenever fro
 For what's worth, I might have to bear with this identity for another decade or two to get on board or simply get drunk. 
 Cannot throw it away. But when thinking carefully, that isn't really my identity.
 
-No matter how I claim that I love our party, I can't hide the fact that I was so disappointed that I don't really care anymore. 
+No matter how I claim that I love our party, I can't hide the fact that I was so disappointed that I don't really care anymore.
 Like your ex. 
 You can tell tones of her bad habits but you won't because deep down inside you don't care.
 This peace holds until someone tells you she's awesome and then you would try to save him.
