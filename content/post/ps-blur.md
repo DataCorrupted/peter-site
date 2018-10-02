@@ -16,7 +16,7 @@ image = "post/ps-blur/ps-blur.png"
 
 +++
 
-I didn't came to this ultil I started posting on my personal blog. 
+I didn't come to this until I started posting on my personal blog. 
 I need images that "happen" to fit in the web page, which is 1200x480px.
 But normal image wouldn't have that ratio, you need something to fill in the empty.
 Use white can do the job but I don't like it at all.
@@ -26,12 +26,12 @@ And that's the head image you are seeing now.
 To do that, you need a PhotoShop. 
 Or if you can do it with something else, please tell me. 
 But anyway, I am using PhotoShop CC 2018.
-**ShanghaiTech bought a Adobe Suite for everyone, welcome to ShanghaiTech. :)**
+**ShanghaiTech bought an Adobe Suite for everyone, welcome to ShanghaiTech. :)**
 
 ## Step 0: Initiate a new Project
 
 I did it with my desired size 1200x480px.
-You can change it to anything you want, but it's better decided before hand.
+You can change it to anything you want, but it's better decided beforehand.
 If you can't decide, use a generic size like 1920x1080 and change later.
 (Image->Image Size or Alt+Ctrl+I)
 
@@ -51,7 +51,7 @@ Notice the lock in the right of layer 1.
 It locks the layer from been deleted.
 Now click it to remove the lock, then select the whole canvas by Ctrl+A, delete it.
 
-Then you would get a empty canvas like this:
+Then you would get an empty canvas like this:
 
 <figure>
   <img src="/img/post/ps-blur/1.png" alt="team"/>
@@ -71,14 +71,14 @@ Select them all(Ctrl + A), copy(Ctrl + C).
 ### First paste
 After pasting adjust the height of the image by input 480px in the right box.
 Press V or select Move Tool in the upper left to adjust the image to the center of your canvas.
-There will be a pink line to guide you when you are close the the center.
+There will be a pink line to guide you when you are close to the center.
 
 <figure>
   <img src="/img/post/ps-blur/2-1.png" alt="team"/>
   <figcaption>In the right box, select the height to be 480px or your canvas' height</figcaption>
 </figure>
 
-After finish you can click the eye in the left of the layer to make it invisible. 
+After finish, you can click the eye in the left of the layer to make it invisible. 
 This layer is finished and would be of much use to us anymore.
 
 ### Second paste
@@ -94,7 +94,7 @@ This is a PS detail that the layer in the button will be hidden by the upper lay
 
 ## Step 3: Blur it!
 Convert the second layer to _Smart Object_ as the figure below does.
-(Layer -> Left click right most buttom which has 3 bars -> Convert to Smart Objects)
+(Layer -> Left click the rightmost button which has 3 bars -> Convert to Smart Objects)
 <figure>
   <img src="/img/post/ps-blur/3-0.png" alt="team"/>
 </figure>
@@ -114,7 +114,7 @@ You can also add multiple blurs to get more interesting effects.
 Now re-click the eye of the first layer, Woola, you are done!
 
 In case you want to delete the previous blur effects, do as the following image:
-(Right click filter->Delete Smart Filter)
+(Right-click filter->Delete Smart Filter)
 <figure>
   <img src="/img/post/ps-blur/3-3.png" alt="team"/>
 </figure>
