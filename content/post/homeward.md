@@ -40,7 +40,7 @@ We were going to shooting range to learn how to use a pistol.
 
 "You are Chinese!", the driver recognized us.  
 
-"Yeah?", to be honest I was a little bit awkward to be recognized as Chinese, even though I was study in _University of Chinese and Lots of Asians(UCLA)_, I prefer the identity Asian or no identiy at all.
+"Yeah?", to be honest I was a little bit awkward to be recognized as Chinese, even though I was study in [_University of Chinese and Lots of Asians(UCLA)_](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), I prefer the identity Asian or no identity at all.
 After all, this is the land of diversity.
 
 "You know, you have an amazing government."   
@@ -60,7 +60,7 @@ So I asked, "Why do you think so."
 "
  But you have to know the price it take to get feed. 
  We lost freedom and we have to stand in line to listen to whatever our government has to say.
- And to fight for freedom many even lost their lives 30 years ago.
+ And to fight for freedom many even [lost their lives](https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989) almost 30 years ago.
 " 
 I added, had to make sure he is not misunderstanding anything.
 
@@ -71,12 +71,12 @@ I added, had to make sure he is not misunderstanding anything.
 
 He backed off(can't argue democracy with white I suppose), but my interest didn't.
 So I kept asking why he thought we have a "great" government.
-Then he continued to talk about our super projects like high-speed railway, the Belt and Road, our investment in Aferica.
+Then he continued to talk about our super projects like [high-speed railway](https://en.wikipedia.org/wiki/High-speed_rail_in_China), [the Belt and Road](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative), our [investment in Aferica](https://en.wikipedia.org/wiki/China-Africa_Development_Fund).
 
 "
  These are just projects we did to show off.
  China kept burning money on these with the solely purpose to get into your head.
- Local governments almost went bankrupted with these projects and have a debt that you cannot image.
+ Local governments almost went bankrupted with these projects and have a [debt](https://en.wikipedia.org/wiki/National_debt_of_China) that you cannot image.
  Guess who pays the debt at the end of the day?
  And where on earth did you learned that?
 ", I concluded, with fear that he might also get brainwashed.
@@ -89,13 +89,13 @@ Instantly I almost felt responsible to change his mind about China.
 "Did you know that our president just become emperor?" I never shared this with anyone that is not Chinese.
 Because this is too shameful.
 The fact that our vote is barely useful is embarrassing enough.
-Telling people that our congress passed the bill that the president can stay forever with no blackball is no different telling people that my daughter just get raped under my watch.
-(Well, in my defense for such rude words, my "Mom China" did get raped by some monkey junky.)
+Telling people that our congress passed the [amendment](https://en.wikipedia.org/wiki/Constitution_of_the_People's_Republic_of_China#2018_Amendments) that the president has no term limit with almost no one voting against it is no different telling people that my daughter just get raped under my watch.
+(Well, in my defense for such rude wording, my "Mom China" did get raped by some monkey junky.)
 
 "Emperor?! Don't you have a congress or parliament?"
  
 "
- Yeah, our congress passed the bill allowing the president to stay there forever.
+ Yeah, our congress passed the amendment to our constitution allowing the president to stay there forever.
  Seriously, our congress is just a birthday party that agrees with whatever the president says.
 "
 
@@ -165,7 +165,7 @@ Hotpot is everywhere that you can barely avoid.
 So hard that I can actually lose weight in Shanghai.
 Na, I don't think I can ever make a home here.
 
-If Shanghai doesn't work because I cannot eat what I used to, how about my birthplace, Taizhou?
+If Shanghai doesn't work because I cannot eat what I used to, how about my birthplace, [Taizhou](https://en.wikipedia.org/wiki/Taizhou,_Jiangsu)?
 Actually my train is heading Taizhou as I write.
 I like the place, every time I got to introduce her I would do it with pride.
 Maybe that's what belonging feels like.
@@ -174,7 +174,7 @@ But I couldn't stay.
 After  all, it's just a small town in the middle of Jiangsu that no one really cares.
 No job opportunities.
 
-The hard truth is, we are the 40th out of 200+ cities in China in terms of economy.
+The hard truth is, we are the [38th out of 200+ cities in China](https://en.wikipedia.org/wiki/List_of_Chinese_prefecture-level_cities_by_GDP) in terms of economy development.
 But we have **no high-speed train** and we share an airport with Yangzhou.
 Oh, by the way we have no metro even though we have been qualified for a long time.
 Why? 
@@ -182,7 +182,7 @@ I don't know.
 Maybe Taizhou would be a good home for me when I retire. 
 But get packed in this 13-hour long train trip from Beijing I am afraid there is no way home for now.
 
-The first si-fi TV program I watched was _Fringe_. 
+The first Si-Fi TV program I watched was [_Fringe_](https://en.wikipedia.org/wiki/Fringe_(TV_series). 
 In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assumes that there is a parallel universe that are almost the same.
 (We use _the other xx_ and _our xx_ to distinguish people and things between two universes.) 
 And they are in war.
@@ -215,7 +215,7 @@ So it's official that I am an asshole now. :)
 Maybe that's part of everyone's life. 
 Like I once said, 
 **you cannot get what you want and only possess what you don't care and most relationships turn into a set of compromise.**
-This was inspired by the _reacher theory_ in _How I Met Your Mother_.
+This was inspired by the [_reacher-settler theory_](https://www.imdb.com/title/tt1570155/plotsummary#synopsis) in [_How I Met Your Mother_](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother).
 There is always a reacher and a settler in any relationship, isn't it?
 
 Time flies into the late 2017 and I am finally ready to start over again.
