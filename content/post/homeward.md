@@ -196,11 +196,40 @@ Before the portal was shut down, Lincoln was standing on the other side of the e
 That is the most beautiful words you can ever say to a girl.
 So I started to examine where my heart is.
 If I cannot find a city to place it, will someone qualified enough to do the job?
-My heart was broken by a girl in my first winter in Shanghai.
-I have to admit that I was an asshole and I did her wrong, and I apologize for that.
+
+Sadly, My heart was broken by a girl in my first winter in Shanghai.
+It was a Wednesday in November, that day was chilly.
+That night we were still messaging each other.
+
+"Got my running test today, I broke my knees." (That's why I was always in kneecap whenever I do sports.)
+
+"Well, mine will be in next Monday."
+
+"Cool, need some support? :)"
+
+"Na... Actually, I went to watch a movie today."
+
+"Without me? What was it? [_The Martian_](https://en.wikipedia.org/wiki/The_Martian_(film))?" 
+I was both astonished and nervous because I planned to do that with her that weekend.
+(
+ Too bad never had the chance. 
+ I couldn't bare watching it for a long time because it reminds me of the breakup, and I didn't watch it until the next year.
+ Man, my all-time-hero Matt was so cool.
+)
+
+"No, there is no way I like that kind of movie, and it's not the kind you would be interested in."
+
+You can imagine how awkward it is to have a conversation like this. 
+That's when I started to sense something wrong.
+She was disappointed, and I was not aware of it until it was too late.
+Our messages are becoming information exchange instead of sweet words that lovers would do.
+So the relationship ended in the next few minutes.
+
+That day was cold and painful, but I cannot distinguish if it was because of my knee or her.
+I have to admit that I was an asshole and I did her wrong, and I apologized and still am apologizing for that.
 Yet I was young and naive and still got hurt.
 So I spent the next year or two fixing my life.
-And while doing that I may have broken someone else's hearts too.
+While doing that I may have broken someone else's hearts too.
 
 Once upon a time, almost simultaneously, I liked a girl, and someone else had a crush on me.
 And out of all odds, both of them are students in ShanghaiTech.
