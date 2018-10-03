@@ -18,7 +18,7 @@ image = "post/ps-blur/ps-blur.png"
 
 I didn't come to this until I started posting on my personal blog. 
 I need images that "happen" to fit in the web page, which is 1200x480px.
-But normal image wouldn't have that ratio, you need something to fill in the empty.
+But standard image wouldn't have that ratio, you need something to fill in the empty.
 Use white can do the job but I don't like it at all.
 What I want is blur the image to fill in.
 And that's the head image you are seeing now.

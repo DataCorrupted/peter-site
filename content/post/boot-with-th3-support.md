@@ -13,18 +13,18 @@ summary = "Some maneuvers to boot with Thunderbolt 3 support"
 
 +++
 
-Starting from ThinkPad T470 there is a [Thunderbolt](https://en.wikipedia.org/wiki/Thunderbolt_(interface)) 3 port to the left of the machine.
+Starting from ThinkPad T470, there is a [Thunderbolt](https://en.wikipedia.org/wiki/Thunderbolt_(interface)) 3 port to the left of the machine.
 I didn't have the chance to use it until I got a Thunderbolt Adapter from Bytedance to help me use my MacBook.
 (Of course, I throw my MacBook away, how stupid it is to leave only a Thunderbolt and ask the user to buy an extra adapter? That doesn't sound convenient at all!)
 The adapter came with an HDMI port, USB3.0 Type A and a USB3.0 Type C.
 With the adapter, I connected my Dell Screen to it.
-What many people don't know is that Dell Screens normally comes with a USB Hub inside. 
+What many people don't know is that Dell Screens usually comes with a USB Hub inside. 
 So I connected the Hub to the adapter too.
 Then the problem came: When booting, my screen works once grub starts up, yet my keyboard won't, which is connected to screen and then connects to the adapter and to my computer through TB3.
 
 First, something you should know:
 
-Thunderbolt 3 has different security modes in order to protect your device. 
+Thunderbolt 3 has different security modes to protect your device. 
 The modes are:
 
 * none (or legacy): just accept any device plugged in
@@ -46,7 +46,7 @@ I will not talk about how to do that, you figure it out yourself!
 For ThinkPad users, go Config -> Thunderbolt(TM) 3.
 Here I set Security level to Secure Connection.
 In _Support in Pre Boot Environment_ I disabled Thunderbolt(TM) device but leave USB device on so my keyboard can start up.
-In terms of _Wake by Thunderbolt(TM)3_, the description is: 
+Regarding _Wake by Thunderbolt(TM)3_, the description is: 
 "Enable or disable Wake Feature with Thunderbolt(TM) 3 Port. If you select Enabled, the
 battery life during low power state may become shorter." 
 I couldn't find anything about this feature but [this post](http://thinkdeploy.blogspot.com/2017/02/new-ThinkPad-bios-settings-for.html) which basically repeats the BIOS description verbatim.
