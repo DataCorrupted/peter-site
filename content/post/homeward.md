@@ -29,9 +29,9 @@ But the question is, where is it?
 I cannot deny that my home is in China, at least that is what I say whenever the front desk in Hedrick Hall wants to verify my home address. 
 (Apparently, I forgot my Burin Card inside my dorm more than once. )
 For what's worth, I might have to bear with this identity for another decade or two to get on board or just get drunk. 
-Cannot throw it away. But when thinking carefully, that isn't really my identity.
+Cannot throw it away. But when thinking carefully, that isn't my identity.
 
-No matter how I claim that I love our party, I can't hide the fact that I was so disappointed that I don't really care anymore.
+No matter how I claim that I love our party, I can't hide the fact that I was so disappointed that I don't care anymore.
 Like your ex. 
 You can tell tones of her bad habits but you won't because deep down inside you don't care.
 This peace holds until someone tells you she's awesome and then you would try to save him.
@@ -48,7 +48,7 @@ I was instantly amused.
 I've seen such stupid words in forms in China thousands of times.
 They would brag about our government with their arrogance and ignorant having no reason, no proof.
 Usually, I would think people who say this are brainwashed by Communists and ignore whatever they have to say about our government.
-Yet it was the first time to hear it from an old white man, and I thought there is no way he gets brainwashed too.
+It was the first time to hear it from an old white man, and I thought there is no way he gets brainwashed too.
 
 So I asked, "Why do you think so."  
 
@@ -107,7 +107,7 @@ That's what I told myself.
 
 That moment, I know, as long as our _Xi the Great_ is there, there is no coming back for me.
 It's not strange that I had a hard time appreciating Chinese politics and culture.
-When other kids were reading _Romance of the Three Kingdoms_, my first long novel was actually [_Doomsday Book_](https://en.wikipedia.org/wiki/Doomsday_Book_(novel)) by [Connie Willis](https://en.wikipedia.org/wiki/Connie_Willis). 
+When other kids were reading _Romance of the Three Kingdoms_, my first long novel was [_Doomsday Book_](https://en.wikipedia.org/wiki/Doomsday_Book_(novel)) by [Connie Willis](https://en.wikipedia.org/wiki/Connie_Willis). 
 It is a good science fiction which won both [_Nebula Award_](https://en.wikipedia.org/wiki/Nebula_Award) and [_Hugo Award_](https://en.wikipedia.org/wiki/Hugo_Award), yet until 2016 only 23 novels can win both. 
 That's how I know [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven) when reading through that 23 novels. 
 Larry's work [_Ringworld_](https://en.wikipedia.org/wiki/Ringworld) was so fascinating that it pulled me away from _Water Margin_, and honestly, I never finish _Water Margin_. 
@@ -139,7 +139,7 @@ Spicy kind.
 
 To be honest, I am a little bit against hotpot.
 Because you cannot put everything into a pot and call it a meal.
-I believe every kind of food deserves a unique cuisine that fits them, not put together and mixed with each other.
+I believe every kind of food deserves a unique cuisine that fits them, not put together and mixed.
 Another thing I must go against is spicy.
 I will firmly stand against it for a long time, like forever.
 It's so strong that it covers any other flavors, leaving nothing but spicy itself, like a fire.
@@ -156,7 +156,7 @@ From then on, I decided never to have spicy hotpot anymore.
 Many spicy foods also went up the blacklist.
 I would refuse my friends' invitation no matter what.
 
-Yet, it's hard to avoid spicy things in Shanghai.
+It's hard to avoid spicy things in Shanghai.
 Even in ShanghaiTech's canteen when I order chicken, I got spicy ones because the cook did that _by default_.
 (Later I learned that the cook came from Sichuan, oh for god's sake, we really should ban cooks that heavily rely on the spicy sauce from entering the kitchen.)
 Hotpot is everywhere that you can barely avoid.
@@ -167,7 +167,7 @@ Na, I don't think I can ever make a home here.
 If Shanghai doesn't work because I cannot eat what I used to, how about my birthplace, [Taizhou](https://en.wikipedia.org/wiki/Taizhou,_Jiangsu)?
 Actually, my train is heading Taizhou as I write.
 I like the place, every time I got to introduce her I would do it with pride.
-Maybe that's what belonging feels like.
+Maybe that's what belonging feels.
 
 But I couldn't stay.
 After all, it's just a small town in the middle of Jiangsu that no one really cares.
@@ -191,7 +191,7 @@ Before the portal was shut down, Lincoln was standing on the other side of the e
 
 "You sure you are not coming **home**?"
 
-**"Home is where heart is."**, Lincoln replied, short but powerful.
+**"Home is where the heart is."**, Lincoln replied, short but powerful.
 
 That is the most beautiful words you can ever say to a girl.
 So I started to examine where my heart is.
@@ -299,7 +299,7 @@ She's a _reacher_, me too.
 She doesn't want to settle, me too.
 
 I think my conclusion that I just told my best friend is a good one.
-That something is wrong with me, I am buggy.
+That something is wrong with me; I am buggy.
 But like a parallel program, every line of code looks just fine.
 Yet they would not function properly.
 I don't know where the bug is, nor do I have the leisure to look for it.

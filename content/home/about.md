@@ -25,5 +25,5 @@ weight = 10
 
 # Biography
 
-I am still a undergraduate student in ShanghaiTech University majoring Computer Science, looking forward to apply for a Ph.D. degree this year. Now I am interning in [Toutiao](https://www.toutiao.com/)'s security Lab, Beijing.
+I am still an undergraduate student at ShanghaiTech University majoring Computer Science, looking forward to applying for a Ph.D. degree this year. Now I am interning in [Toutiao](https://www.toutiao.com/)'s security Lab, Beijing.
 
