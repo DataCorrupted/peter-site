@@ -50,6 +50,6 @@ It earned us a 9-month internship.
 During my intern, I took care of the mapping and navigation. 
 I also wrote a state machine to help manage all the stages in the transaction.
 
-You may see more details on our [project page](robotics.shanghaitech.edu.cn). 
+You may see more details on our [project page](https://robotics.shanghaitech.edu.cn/node/204). 
 But unfortunately, it's not working now. 
 You may also see a demo on [YouTube](https://www.youtube.com/watch?v=QTBZvm4LgKQ)/[bilibili](https://www.bilibili.com/video/av25993612?from=search&seid=14391233130440824408) which shows you the first version of our robot. 
