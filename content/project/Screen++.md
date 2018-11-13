@@ -24,7 +24,7 @@ math = false
 +++
 
 How long have you been getting drown in seas of screens with different devices and different platforms? 
-As programmers, our answer is "on Daily basis." 
+As programmers, our answer is "on a Daily basis." 
 Even for ordinary people, what is happening in their home is that they have an Apple, and Windows-based PC and probably Android-driven TV sets. 
 Different platforms are making cross-platform work harder and harder. 
 For example, how do plan to play a movie on your PC using TV?
