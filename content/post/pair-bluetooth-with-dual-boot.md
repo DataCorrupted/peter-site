@@ -3,15 +3,18 @@ title = "How to Pair your bluetooth device when using Dualboot"
 
 date = 2018-11-05T10:58:00
 lastmod = 2018-11-05T10:58:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
 tags = ["Linux", "Geek", "HowTo", "Windows", "Dualboot"]
-summary = ""
+summary = "When you are using dualboot, bluetooth seems not pairing all the time. Here's a fix."
 
 +++
+
+asdfasd
+
 
 ## Reference
 [https://en.wikipedia.org/wiki/Bluetooth#Name](https://en.wikipedia.org/wiki/Bluetooth#Name)

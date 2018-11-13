@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["life"]
+tags = ["Life"]
 summary = "After years spent in China and two months in LA, I finally realized that 'homeward' is just a null pointer for me."
 
 [header]
