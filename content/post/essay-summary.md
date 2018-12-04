@@ -26,6 +26,7 @@ However, out of my expectation, I found many common mistakes that people share.
 These mistakes including grammar mistakes, lacking a leading sentence, and poor architecture, etc.
 Thus I am writing this to point them out and hope I can provide some insights so that you don't make these mistakes again.
 
+### Grammar
 **I was surprised to find that many of your work suffer from grammar problems.**
 First of all, on average Grammarly would report 10-20 critical issues. (typos, tense, missing/wrong article, comma, etc.)
 I wouldn't list them since I never took a close look at them. 
@@ -38,6 +39,7 @@ There should be a comma in a listing before "and" and after each comma, there sh
     "A, B, and C".
 ```
 
+### Paragraph
 **Every paragraph should have a leading sentence and that sentence should be everything.** 
 This is what everyone would expect to learn from TOEFL or GRE writing, and this rule stands even if you are writing PS.
 Any paragraph that has no leading would be confusing.
@@ -55,6 +57,7 @@ Keep that in mind: your PS should be plain and simple, anything more complicated
 Also, once you have settled your leading sentence, every word in that paragraph should serve the sole purpose of supporting that sentence.
 **DO NOT SWITCH TOPICS IN A PARAGRAPH.**
 
+### Formality
 **Formality is another pain.**
 I saw words that are only used orally.
 ```c
@@ -87,6 +90,7 @@ For example:
 ```
 The previous sentence(My career plan) can provide little support to the later(I am interested in CSST@UCLA) 
 
+### Details
 **Use of vague, big words; please be more specific, use details.**
 First of all, obscure words.
 "I felt it my responsibility to use my knowledge to make some beneficial changes to feedback the society" never sounds right.
@@ -118,6 +122,7 @@ For example:
 However, this is no a good demo as "useful" is vague again, useful how? Where did you use it?
 I used "useful" because I don't want to bother myself. :)
 
+### Self-destruction
 **Do not speak little of yourself and use any word but "good" to brag.**
 In the U.S., "good/great" is ok, "ok/fair" means you failed. 
 Use words like _excellent_, _brilliant_, _perfect_, _extraordinary_, etc. to demonstrate your ability instead of "good".
@@ -137,6 +142,8 @@ E.g:
      I haven't had a comprehensive understanding of all the details. 
      But I would read more papers and ask around to catch up in the next week."
 ```
+
+### General PS
 **Someone's PS become General Statement that suits for everybody.**
 General is hard to explain. 
 One of your PS is so _general_ that I can hardly tell who wrote.
@@ -144,6 +151,7 @@ He described his high school life, putting ephemeris on how he passed College En
 That PS can, I assume, fit into most students who survived CEE.
 You want to stand out by writing something that is unique to you, experiences, interests, methodologies, etc.
 
+### Publications
 **Someone mentioned his publications**
 If you have any publications, do mention its title, conference name, publication date, who you worked with.
 But there is no need to emphasize that you are the "1st author", there is no such saying.
