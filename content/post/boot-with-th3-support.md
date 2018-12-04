@@ -53,10 +53,7 @@ I couldn't find anything about this feature but [this post](http://thinkdeploy.b
 But for the sake of my battery, I disabled it anyway.
 
 ## Reference
-[https://en.wikipedia.org/wiki/Thunderbolt_(interface)](https://en.wikipedia.org/wiki/Thunderbolt_(interface))
-
-[https://eischmann.wordpress.com/2017/06/29/thunderbolt-security-levels-and-linux-desktop/](https://eischmann.wordpress.com/2017/06/29/thunderbolt-security-levels-and-linux-desktop/)
-
-[https://christian.kellner.me/2017/12/14/introducing-bolt-thunderbolt-3-security-levels-for-gnulinux/](https://christian.kellner.me/2017/12/14/introducing-bolt-thunderbolt-3-security-levels-for-gnulinux/)
-
-[http://thinkdeploy.blogspot.com/2017/02/new-thinkpad-bios-settings-for.html](http://thinkdeploy.blogspot.com/2017/02/new-thinkpad-bios-settings-for.html)
+[Thunderbolt (interface)](https://en.wikipedia.org/wiki/Thunderbolt_(interface))  
+[ThunderBolt Security Levels and Linux desktop](https://eischmann.wordpress.com/2017/06/29/thunderbolt-security-levels-and-linux-desktop/)  
+[Introducing bolt: Thunderbolt 3 security levels for GNU/Linux](https://christian.kellner.me/2017/12/14/introducing-bolt-thunderbolt-3-security-levels-for-gnulinux/)  
+[New ThinkPad BIOS Settings for Thunderbolt 3](http://thinkdeploy.blogspot.com/2017/02/new-thinkpad-bios-settings-for.html)

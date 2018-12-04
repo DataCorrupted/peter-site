@@ -121,4 +121,4 @@ In case you want to delete the previous blur effects, do as the following image:
 
 ### Reference
 
-[https://www.photoshopessentials.com/photo-effects/radial-blur-action-effect-photoshop/](https://www.photoshopessentials.com/photo-effects/radial-blur-action-effect-photoshop/)
+[Radial Blur Action Effect In Photoshop](https://www.photoshopessentials.com/photo-effects/radial-blur-action-effect-photoshop/)
