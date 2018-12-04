@@ -46,10 +46,10 @@ Any paragraph that has no leading would be confusing.
 I have seen paragraphs putting their main topic in the 3rd sentence, or there is no topic sentence at all.
 For example, someone started his PS with:
 ```c
-	"After these years’ study of Computer Science, 
-	 I realize one thing: 
-	 it is a revolution which reforms our society in all dimensions, 
-	 something really thrilling and worth fighting for."
+    "After these years’ study of Computer Science, 
+     I realize one thing: 
+     it is a revolution which reforms our society in all dimensions, 
+     something really thrilling and worth fighting for."
 ```
 This sentence rarely gave any information about the applicant, nor what he is about to say in the first paragraph.
 I would discourage anyone from doing so. 
@@ -74,10 +74,10 @@ First one is your architecture.
 Paragraphs should be coherent, connected to support one idea/answer one question: "Why you should get admitted?".
 Following this logic, you can write:
 ```c
-	 "Who I am",
-	"Why I am interested",
-	"Why I am suitable",
-	"My future plan"...... 
+    "Who I am",
+    "Why I am interested",
+    "Why I am suitable",
+    "My future plan"...... 
 ```
 Many people have their paragraphs shattered around, and I can hardly tell what your PS is trying to convey.
 The second point of view is the logic in your paragraph.
