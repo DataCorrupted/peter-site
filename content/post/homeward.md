@@ -2,7 +2,7 @@
 title = "Homeward"
 
 date = 2018-10-01T22:58:00
-lastmod = 2018-10-02T08:58:00
+lastmod = 2018-12-04T14:4:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -181,7 +181,7 @@ I don't know.
 Maybe Taizhou would be a good home for me when I retire. 
 But get packed in this 13-hour long train trip from Beijing I am afraid there is no way home for now.
 
-The first Si-Fi TV program I watched was [_Fringe_](https://en.wikipedia.org/wiki/Fringe_(TV_series). 
+The first Si-Fi TV program I watched was [_Fringe_](https://en.wikipedia.org/wiki/Fringe_(TV_series)). 
 In this series J.J.(Yes, this series was written by [J.J. Abrams](https://en.m.wikipedia.org/wiki/j._j._Abrams), the J.J Abrams who also wrote [_Counterpart_](https://en.m.wikipedia.org/wiki/Counterpart_(TV_series))) assumes that there is a parallel universe that is almost the same.
 (We use _the other xx_ and _our xx_ to distinguish people and things between two worlds.) 
 And they are in a war.
@@ -299,17 +299,18 @@ She's a _reacher_, me too.
 She doesn't want to settle, me too.
 
 I think my conclusion that I just told my best friend is a good one.
-That something is wrong with me, I am buggy.
+Like a piece of code, I am buggy.
 But like a parallel program, every line of code looks just fine.
 Yet they would not function properly.
 I don't know where the bug is, nor do I have the leisure to look for it.
-And even if I find it, I am not sure if I can fix it.
-Like a piece of rocky code, you need an experienced programmer to fix it.
-But experienced programmer doesn't debug rocky code, people like Linus would merely bite your head off.
+Even if I find it, I am not sure if I can fix it.
+You need an experienced programmer to fix a piece of rocky code.
+But experienced programmers don't debug rocky code, people like Linus would merely bite your head off.
+(I heard Linus stoppd use f-word, good for him.)
 
 Not knowing where to stay, who to stay with.
 Even though my destination today is Taizhou, but **I am literately heading nowhere.**
-My only goal now is to apply for a grad school and try to immigrate like I planned since I lost faith in middle school.
+My goal now is to apply for a grad school and try to immigrate like I planned since I lost faith years ago.
 
 Now that most application system is open let's hope I find a home there.
 
