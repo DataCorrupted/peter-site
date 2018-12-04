@@ -70,5 +70,5 @@ If you do Ctrl+Alt+F4 and do a _ps_, you will see the "remaining" of your last c
 
 ### Reference
 
-[https://blog.csdn.net/Csdoker/article/details/80462163](https://blog.csdn.net/Csdoker/article/details/80462163)
-[https://notes.ijustplay.cn/software/ubuntu-netease-cloud-music.html](https://notes.ijustplay.cn/software/ubuntu-netease-cloud-music.html)
+[Ubuntu 18.04 网易云音乐无法打开问题解决方案](https://blog.csdn.net/Csdoker/article/details/80462163)  
+[Ubuntu 18.04 网易云音乐无法打开最简单解决办法](https://notes.ijustplay.cn/software/ubuntu-netease-cloud-music.html)
