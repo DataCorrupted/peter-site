@@ -2,7 +2,7 @@
 title = "Homeward"
 
 date = 2018-10-01T22:58:00
-lastmod = 2018-12-04T14:4:00
+lastmod = 2018-12-04T14:44:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
