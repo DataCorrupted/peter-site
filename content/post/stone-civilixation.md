@@ -2,14 +2,14 @@
 title = "石头文明"
 
 date = 2019-03-05T22:38:00
-lastmod = 2019-03-05T22:38:00
+lastmod = 2019-03-06T12:32:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
 tags = ["Novel", "Si-fi"]
-summary = ""
+summary = "A short si-fi story."
 
 +++
 
