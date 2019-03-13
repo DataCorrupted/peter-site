@@ -17,7 +17,7 @@ weight = 10
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "B.S. in Computer Science"
+  course = "B.E. in Computer Science"
   institution = "ShanghaiTech University"
   year = 2019
 
@@ -25,5 +25,5 @@ weight = 10
 
 # Biography
 
-I am still an undergraduate student at ShanghaiTech University majoring Computer Science, looking forward to applying for a Ph.D. degree this year. Now I am interning in [Toutiao](https://www.toutiao.com/)'s security Lab, Beijing.
+I am still an undergraduate student at ShanghaiTech University majoring Computer Science, looking forward to applying for a Ph.D. degree this year. Now I am interning in [Bytedance](https://bytedance.com/)'s security Lab, Shanghai.
 
