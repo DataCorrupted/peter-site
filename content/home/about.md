@@ -19,11 +19,14 @@ weight = 10
   course = "B.E. in Computer Science"
   institution = "ShanghaiTech University"
   year = 2019
-
+[[education.courses]]
+  course = "Ph.D. in Computer Science"
+  institution = "UC Davis"
+  year = 2024
 +++
 
 # Biography
 
-I am a Ph.D. candidate in UC Davis. My focus now is in Security, software security and fuzzing to be more precise. Now I am interning in [Bytedance](https://bytedance.com/)'s security Lab, Shanghai. I have a submittd work on how to actively detect integer arithmetic errors using fuzzers. Since I haven't heart from the committee, I couldn't share more details with you.
+I am a Ph.D. candidate in UC Davis. My focus now is in [fuzzing](https://en.wikipedia.org/wiki/Fuzzing). I have a submitted work on how to actively detect integer arithmetic errors using fuzzers. Since I haven't heart from the committee, I couldn't share more details with you.
 
-I have limited yet colorful personal life. My interes including archery, dogs and si-fi. My gf is still a null pointer so I can't reference her here. I will be in Shanghai until 29th, Aug.
+I have a colorful personal life. My interests including archery, dogs and si-fi. I like driving, but manual transmission only. I am also a foodie and a (mediocre) cook, loves [huaiyang cuisine](https://en.wikipedia.org/wiki/Huaiyang_cuisine) and [fusion cuisine](https://en.wikipedia.org/wiki/Fusion_cuisine).  My gf is still a null pointer so I can't reference her here or this site crashes. XD.

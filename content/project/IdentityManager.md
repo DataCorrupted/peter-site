@@ -14,7 +14,7 @@ image_preview = "project/IdentityManager/IdentityManager.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["networking", "Android", "selected"]
+tags = ["networking", "Android"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/DataCorrupted/GamBody_src"
@@ -44,7 +44,7 @@ Is DHCP safe? Can it be possible that someone pretends to be your router and gav
 Is DNS safe? Can someone give you the wrong one and lead you to Baidu.com instead of Google.com?
 Well if you are a China Telecom's user, you run into this on a monthly basis because they hijack your DNS server to insert their ad.
 And is your communication safe? 
-Till now we still have web pages communicate when HTTP where all the data is not encrypted, meaning everyone can read it.
+Till now we still have web pages communicate with HTTP where all the data is not encrypted, meaning everyone can read it.
 
 But do you care about that?
 No, all you need is data. 
@@ -190,7 +190,7 @@ The protocol can be seen below.
 Finally, this tool has to run on cell phones.
 Because of most applications, including our data capturing one, runs on cell phones.
 However, why not Apple?
-We ruled in favor of Android because we think in the long term Android can be rooted to support pure NDN(current, it runs over IP), which is not possible for Apple.
+We ruled in favor of Android because we think in the long term Android can be rooted to support pure NDN(currently, it runs over IP), which is not possible for Apple.
 
 However, Android is Java-based, yet our protocol and libraries are written in C++14.
 We considered both the possibility of using Java Native Interface(JNI) and rewrite NDNCERT using Java(There is [Jndn](https://github.com/named-data/jndn) already).

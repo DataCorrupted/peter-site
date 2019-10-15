@@ -58,20 +58,20 @@ enableGitInfo = false
 
   # Your details.
   name = "Yuyang(Peter) Rong"
-  role = "Undergraduate in Computer Science"
+  role = "Graduate Student in Computer Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ 
-    { name = "ShanghaiTech University", url = "http://www.shanghaitech.edu.cn/" },
-    { name = "School of Information Science and Technology(SIST)", url = "http://sist.shanghaitech.edu.cn/"} ]
+    { name = "UC Davis", url = "https://www.ucdavis.edu/" },
+    { name = "College of Engineering", url = "https://engineering.ucdavis.edu/"} ]
 
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "PeterRong96 at gmail dot com"
-  address = "393, Mid Huaixa Rd, Shanghai"
-  phone = "+86.177.2105.4096"
+  address = "1313 Wakeforest Dr, Apt 226"
+  phone = "+1.530.601.3646"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -229,16 +229,6 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/DataCorrupted"
-    
-  [[params.social]]
-    icon = "zhihu"
-    icon_pack = "fab"
-    link = "https://www.zhihu.com/people/rong-yu-yang-45/activities"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fab"
-    link = "https://www.linkedin.com/in/yuyang-peter-rong-648109127/"
 
    [[params.social]]
      icon = "facebook"
@@ -249,6 +239,17 @@ enableGitInfo = false
     icon = "twitter"
     icon_pack = "fab"
     link = "//twitter.com/PeterRong96"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/yuyang-peter-rong-648109127/"
+
+  [[params.social]]
+    icon = "zhihu"
+    icon_pack = "fab"
+    link = "https://www.zhihu.com/people/rong-yu-yang-45/activities"
+
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -321,25 +322,26 @@ enableGitInfo = false
     url = "http://blizzard.com"
     widget = 1
   [[menu.main]]
-    name = "Java"
-    parent = "UsefulLinks"
-    url = "https://docs.oracle.com/javase/tutorial/"
-    widget = 2
-  [[menu.main]]
     name = "Rust"
     parent = "UsefulLinks"
     url = "https://www.rust-lang.org/en-US/"
-    widget = 3
+    widget = 2
   [[menu.main]]
-    name = "Markdown"
+    name = "Java"
     parent = "UsefulLinks"
-    url = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
-    widget = 4
+    url = "https://docs.oracle.com/javase/tutorial/"
+    widget = 3
   [[menu.main]]
     name = "C/Cpp"
     parent = "UsefulLinks"
     url = "http://www.cplusplus.com/doc/tutorial/"
+    widget = 4
+  [[menu.main]]
+    name = "Markdown"
+    parent = "UsefulLinks"
+    url = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
     widget = 5
+
 
 # Search.
 [params.search]
