@@ -70,7 +70,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "PeterRong96 at gmail dot com"
-  address = "1313 Wakeforest Dr, Apt 226"
+  address = "425 La Rue Rd, 2110 Watershed Science, \nDavis CA, 95616"
   phone = "+1.530.601.3646"
   telegram = ""
 
