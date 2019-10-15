@@ -299,17 +299,17 @@ enableGitInfo = false
     [[menu.main]]
         name = "2-page CV(eng)"
         parent = "CV"
-        url = "file/pdf/cv.pdf"
+        url = "file/cv/cv.pdf"
         weight = 1
     [[menu.main]]
         name = "1-page Resume(eng)"
         parent = "CV"
-        url = "file/pdf/resume_eng.pdf"
+        url = "file/cv/resume_eng.pdf"
         weight = 2
     [[menu.main]]
         name = "1-page Resume(chn)"
         parent = "CV"
-        url = "file/pdf/resume_chn.pdf"
+        url = "file/cv/resume_chn.pdf"
         weight = 3
 
 [[menu.main]]
