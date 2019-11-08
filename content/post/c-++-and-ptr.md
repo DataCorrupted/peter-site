@@ -16,13 +16,12 @@ summary = "Skip this post if you are not confused by *++p, ++*p, *p++, *(p++), a
 +++
 
 There are times I would call Halloween when programming C. 
-It is when you would expect gostes dancing in your yard and you can do nothing about it.
+It is when you would expect ghosts dancing in your yard and you can do nothing about it.
 The combination of "++" and "\*" is one of the worst.
-I have been against this way of code for a long time, refusing writing it.
-I believe every code should be readable by HUMAN. (yes, not COMPILERS!)
+I have been arguing against this way of coding for a long time because I believe every piece of code should be readable by HUMAN. (yes, not COMPILERS!)
 
 However, this coding style appears regardless of my willingness.
-Therefore, I have to record here all the possible usage of the combinations of them.
+Therefore, I have to write about all the possible (ugly) usage of the combinations here.
 
 ## Rules
 
@@ -30,8 +29,8 @@ DO NOTICE THAT WHEN IT COMES TO PREFIX INC/DEC, POSTFIX INC/DEC, AND DEREFERENCE
 
 | Precedence 	| Operator 	| Description                            	| Associativity 	|
 |------------	|----------	|----------------------------------------	|---------------	|
-| 1          	| ++/--    	| Suffix/postfix increment and decrement 	| Left to Right 	|
-| 2          	| ++/--    	| Prefix increment and decrement         	| Right to Left 	|
+| 1          	| ++/- -   	| Suffix/postfix increment and decrement 	| Left to Right 	|
+| 2          	| ++/- -  	| Prefix increment and decrement         	| Right to Left 	|
 | 2          	| *        	| Indirection (dereference)              	| Right to Left 	|
 
 ## The Easy Part
