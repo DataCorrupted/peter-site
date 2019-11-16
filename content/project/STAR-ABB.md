@@ -6,7 +6,7 @@ date = 2018-09-12T10:36:00Z
 title = "STAR-ABB"
 
 # Project summary to display on the homepage.
-summary = "A joint project did between STAR Lab and ABB Group."
+summary = "A joint project between STAR Lab and ABB Group."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "project/STAR-ABB/STAR-ABB.png"
@@ -36,7 +36,7 @@ The manipulator no longer needs to be installed on a particular spot but can be 
 
 Thus, with the joint effort with STAR Lab(Now MARS Lab) and ABB Group, we produced this robot as our course project in graduate level course Robotics. 
 The first version was build from [Yumi](https://new.abb.com/products/robotics/industrial-robots/yumi) and [Husky](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/). 
-We would like to point out that the manipulator Yumi provided by ABB is very powerful and user-friendly, it helped us a lot.
+We want to point out that the manipulator Yumi provided by ABB is very powerful and user-friendly, it helped us a lot.
 
 Such robotics involves multiple disciplines in Computer Science, Electrical Engineering and even Mechanical Engineering.
 For the mobile robot, we have to deal with mapping, navigation and provide computational power. 
@@ -45,11 +45,11 @@ The robots combined are more massive than we expected, that's when we need ME gu
 Finally, two robotics runs on different systems, we hacked Husky to run Ubuntu 1604, yet Yumi has an ABB built OS. 
 We used the network to help them communicate.
 
-This project started off as our course project, and we applied the result with ABB's robot. 
+This project started as our course project, and we applied the result with ABB's robot. 
 It earned us a 9-month internship. 
 During my intern, I took care of the mapping and navigation. 
 I also wrote a state machine to help manage all the stages in the transaction.
 
-You may see more details on our [project page](robotics.shanghaitech.edu.cn). 
+You may see more details on our [project page](https://robotics.shanghaitech.edu.cn/node/204). 
 But unfortunately, it's not working now. 
 You may also see a demo on [YouTube](https://www.youtube.com/watch?v=QTBZvm4LgKQ)/[bilibili](https://www.bilibili.com/video/av25993612?from=search&seid=14391233130440824408) which shows you the first version of our robot. 

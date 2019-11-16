@@ -18,7 +18,7 @@ tags_include = []
 tags_exclude = ["life"]
 
 # Number of posts to list.
-count = 5
+count = 3
 
 # Filter toolbar.
 

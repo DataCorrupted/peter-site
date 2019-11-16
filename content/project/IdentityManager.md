@@ -14,7 +14,7 @@ image_preview = "project/IdentityManager/IdentityManager.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["networking", "Android", "selected"]
+tags = ["networking", "Android"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/DataCorrupted/GamBody_src"
@@ -31,7 +31,7 @@ Before we jump into jargons, let's ask ourselves a simple question: How do you G
 You type in Google.com, and the browser magically jumps out the page.
 But is that all?
 The truth is, in current protocol TCP/IP, every Internet packet needs a source and a destination.
-You may think this is trivial, you do that every day when you mail a UPS.
+You may think this is trivial; you do that every day when you mail a UPS.
 But src and dest address is not trivial in Networks when the address is composed of 32 bits.
 The solution?
 DNS server. 
@@ -40,17 +40,17 @@ Then what is the source?
 We used to configure it manually, but now we have DHCP to take care of that.
 
 You can easily see the security problems behind this.
-Is DHCP safe? Can it be possible that someone just pretends to be your router and gave you a fake address and reads all your communication?
+Is DHCP safe? Can it be possible that someone pretends to be your router and gave you a fake address and reads all your communication?
 Is DNS safe? Can someone give you the wrong one and lead you to Baidu.com instead of Google.com?
-Well if you are a China Telecom's user, you run into this on monthly basis because they hijack your DNS server to insert their ad.
+Well if you are a China Telecom's user, you run into this on a monthly basis because they hijack your DNS server to insert their ad.
 And is your communication safe? 
-Till now we still have web pages communicate when HTTP where all the data is not encrypted, meaning everyone can read it.
+Till now we still have web pages communicate with HTTP where all the data is not encrypted, meaning everyone can read it.
 
 But do you care about that?
 No, all you need is data. 
 The simple search results from Google.
 Then why bother with connection since TCP/IP is connection based?
-What we really need is a network architecture that is data based.
+What we need is a network architecture that is data based.
 And that's when you need NDN.
 
 ### Introduction to NDN
@@ -60,8 +60,8 @@ Unlike TCP/IP, there is no _address_ in this architecture.
 In NDN, every piece of data is named. 
 To fetch a data, the consumer may merely express an _**Interest**_ packet with the name of that data and specific parameters.
 _**Data**_ packet, on the other hand, starts with the name of the data, followed by the data and the producers signature. 
-**Every entity in NDN must have an identity** and the signature can be generated from that identity.
-Thus the signature allows all the consumer to verify that the data is secured and unchanged.
+**Every entity in NDN must have an identity** and that entity can generate signatures.
+Thus the signatures allow all the consumer to verify that the data is secured and unchanged.
 
 
 <figure>
@@ -86,7 +86,7 @@ It consists of several units including Data Storage Unit(DSU), Data Processing U
   <figcaption>The architecture of NDNFit</figcaption>
 </figure>
 
-Yet, our concern is that it runs over TCP/IP, causing large overhead when sharing data. 
+Our concern is that it runs over TCP/IP, causing large overhead when sharing data. 
 This overhead cannot overcome since whenever transferring to a new destination, the network has to retransmit the data since the packet changed(even though the data remains unchanged). 
 It is also worth mentioning that this is quite a problem in nowadays network architecture and it's more problematic if the scope changed from data sharing to (torrent) downloading, video streaming, gaming, etc. 
 These scenarios generally have more participants, and the overhead can grow linearly as the user increases.
@@ -190,7 +190,7 @@ The protocol can be seen below.
 Finally, this tool has to run on cell phones.
 Because of most applications, including our data capturing one, runs on cell phones.
 However, why not Apple?
-We ruled in favor of Android because we think in the long term Android can be rooted to support pure NDN(current, it runs over IP), which is not possible for Apple.
+We ruled in favor of Android because we think in the long term Android can be rooted to support pure NDN(currently, it runs over IP), which is not possible for Apple.
 
 However, Android is Java-based, yet our protocol and libraries are written in C++14.
 We considered both the possibility of using Java Native Interface(JNI) and rewrite NDNCERT using Java(There is [Jndn](https://github.com/named-data/jndn) already).
@@ -200,11 +200,11 @@ You can check our application [here](https://github.com/DataCorrupted/android-id
 
 ### Future
 
-This application is not entirely finished yet.
-Now we can retrieve a user identity whenever it is requested by the user.
+This application is not finished yet.
+Now we can retrieve a user identity whenever the user requests it.
 However, we cannot issue application identities yet.
 We haven't decided what should each application do to invoke our application. 
 It should be done with an _Intent_ introduced in Android whose philosophy is close to _Interest_.
 But we haven't dug into it.
 
-Finally, Identity Manager should not be only used for NDNFit, it can be the manager for whatever application in the future as long as data should be protected per user.
+Finally, Identity Manager should not be only used for NDNFit; it can be the manager for whatever application in the future as long as data should be protected per user.
