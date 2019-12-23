@@ -75,7 +75,7 @@ summary = "去了一趟Yosemite，有些好事，有些坏事；有些感动，�
 显然我是用重要性而不是时间顺序来记事的~~所以写到现在才想起来应该写下具体的行程~~,顺便如果有朋友要去哪里玩可以参考一下XD
 
 <figure>
-  <img src="/img/post/yosemite/06-map.png"/>
+  <img src="/img/post/yosemite/02-map.png"/>
   <figcaption>我又搬出了这张图</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Mono lake是一个盐碱湖,所以水并不能喝,也没有什么水生动物,�
   <figcaption>德国人虽然很友善的帮我们拍照了,至今没有发给我们,只好掏出自己的</figcaption>
 </figure>
 <figure>
-  <img src="/img/post/yosemite/10-no-problem.jpg", width="200" />
+  <img src="/img/memes/no-problem.jpg", width="200" />
   <figcaption>严谨德国人警告 XD</figcaption>
 </figure>
 从Mono lake沿着CA120往西开回去已经是晚上了(最近日落真的早), 住在Riverside Inn,如果你也住他们家的话,他们的wifi密码是yriguest,别花10$买密码 XD
@@ -119,7 +119,7 @@ Mono lake是一个盐碱湖,所以水并不能喝,也没有什么水生动物,�
 在山顶的时候很惊悚的想起来手动挡开习惯了,自动挡刹车失灵的时候要怎么紧急制动都不知道,打电话问家人,老爹:发动机制动啊,不存在的,你就用P档慢慢减速吧,别一直拉P不然刹车线要断的; 我:那我人没了你说你马呢. 好在后来刹车没失灵XD
 
 <figure>
-  <img src="/img/post/yosemite/12-say-ur-mother.jpg" />
+  <img src="/img/memes/say-ur-mother.jpg" />
 </figure>
 
 在Glacier Point还顺利的实现了和小新的云~~续命~~合影
