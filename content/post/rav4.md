@@ -28,7 +28,6 @@ summary = "Toyota 2020 RAV4 LE Hybrid 香就完了"
 
 <figure>
   <img src="/img/post/rav4/rav4-front0.jpg"/>
-  <img src="/img/post/rav4/rav4-front1.jpg"/>
 </figure>
 
 让我觉得略有意思的是和老爹聊车,经常鸡同鸭讲,他说本田的思域怎么怎么样,我说停一下本田是Honda还是Toyota,思域又是什么车型美国没有吧,一查思域就是Civic,翻译的倒不错.
@@ -36,6 +35,10 @@ summary = "Toyota 2020 RAV4 LE Hybrid 香就完了"
 老头子说我看测评RAV4挺好的,我说你哪看的测评别被忽悠了.
 (有一说一现在中文互联网环境非常差,想找到准确信息不被忽悠挺难的)
 翻出来一看知乎搬运文,基本就是堆数据,写的内容基本是我已经看过的.
+
+<figure>
+  <img src="/img/post/rav4/rav4-front1.jpg"/>
+</figure>
 
 然后是试驾.
 三家的车子我都试过,CR-V开起来总是软软的,说实话RAV4的汽油版也是,可能这就是油耗和速度不可兼得吧.
@@ -61,9 +64,9 @@ Nissan贬值很厉害,五年后平均剩三折;另两家五年老车打五折,�
 可惜CR-V的混动和电动要20年底才能在地球online美区上线,于是选了RAV4.
 后来发现是RAV4在国内被翻译成了"荣放",倒是挺大气的名字,也挺巧的大家都是一家人啊遂打算定制车牌.
 
-<figure>
-  <img src="/img/post/rav4/RONG879.jpg"/>
-  <img src="/img/post/rav4/879RONG.jpg"/>
+<figure style="text-align: center">
+  <img src="/img/post/rav4/RONG879.jpg" style="display: inline-block;"/>
+  <img src="/img/post/rav4/879RONG.jpg" style="display: inline-block;"/>
   <figcaption>其实我还没想好选哪个233333</figcaption>
 </figure>
 
@@ -78,7 +81,7 @@ dealer国内是不是应该翻译成经销商?销售?
 不过不得不说这车子太紧俏了,三四家dealer降价800就不降了,直接说你走吧我不卖了.
 
 <figure>
-  <img src="/img/post/rav4/cat-questionmark.gif"/>
+  <img src="/img/memes/cat-questionmark.gif", width="200" />
 </figure>
 
 这个流程持续了大约三四天.到最后只剩下四家dealer在手上.
@@ -118,6 +121,10 @@ dealer离我15mi/25公里,又不想打uber去(摊手)
 这个过程也非常妖气,先报价2,495,我说太贵不要,遂给"员工价"1,795.
 有点动心打了个电话问了下,电话打完变成了1,595.我满头黑人问号,遂试探性"1,500爱卖不卖",居然真的卖了?感觉砍价少了?
 
+<figure>
+  <img src="/img/memes/techless-tears.jpg"/>
+</figure>
+
 ## 今天你读文档了吗?
 
 之前有个uber司机说:"你们工程师和律师,只有你们会真的去看说明书".
@@ -142,8 +149,8 @@ dealer离我15mi/25公里,又不想打uber去(摊手)
 这种高度抽象;不给用户底层控制,是不是让你想喝一杯92年的咖啡?
 
 <figure>
-  <img src="/img/post/rav4/no-java.jpg"/>
-  <img src="/img/post/rav4/java.jpg"/>
+  <img src="/img/post/rav4/no-java.jpg", width="200" />
+  <img src="/img/post/rav4/java.jpg", width="200" />
 </figure>
 
 另外我的仪表盘上没有转速表,放了一个很状态表,从下到上的状态分别是电池能量回收(蓝),电池四驱(绿),内燃机前驱顺便给电池充电(黄),混动四驱(白).
@@ -174,6 +181,14 @@ RAV4有个前置相机,除了车道识别以外还额外识别交通指示牌,�
 
 ## 后续和别的一些有的没的
 
+
+刚提车还在磨合期(怎么说话和情侣一样?)是不是互相给一点惊喜和惊吓.
+比如谁能解释一下为什么我的钥匙上有盲点,意思是盲人也可以开车呗?
+
+<figure>
+  <img src="/img/post/rav4/key.jpg", width="200" />
+</figure>
+
 因为是全款交易dealer不收现金信用卡和个人支票的,非得去银行开银行支票.
 停在银行门口看到一辆保时捷的跑车,哪款不记得了,司机说这家伙至少十万刀.
 (顶我三辆还多?!)
@@ -186,7 +201,7 @@ RAV4有个前置相机,除了车道识别以外还额外识别交通指示牌,�
 早上前脚出家门后脚收到邮件,快递投递了哦,甚至拍了个照片.
 
 <figure>
-  <img src="/img/post/rav4/helpless.jpg"/>
+  <img src="/img/post/rav4/helpless.jpg", width="200" />
   <figcaption>居然还有脸问我"你觉得我们的快递服务怎么样"</figcaption>
 </figure>
 
