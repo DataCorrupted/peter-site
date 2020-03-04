@@ -57,13 +57,12 @@ _破碎国度_ 是个回合制的策略游戏,作为 [X-Com](https://en.wikipedi
   <figcaption>星际争霸在1996年6月电子娱乐博览会的照片. 没错, 我也不想玩这种东西</figcaption>
 </figure>
 
-但是一个更要紧的项目压制了星际争霸,把开发者一个接一个的拉走了.
-暗黑破坏神需要额外的帮助.
+但是一个更要紧的项目压制了星际争霸,把开发者一个接一个的拉走了: 暗黑破坏神(Diablo)需要额外的帮助.
 暗黑破坏神一个角色扮演游戏, 由当时位于加州红木城(Reedwood City)的神鹰工作室(Condor Studios)开发.
 神鹰最早是Dave Brevik, Max Schaefer和他兄弟Erich Schaefer组建的公司,当时只有120万美元的预算: 即使是那个年代也是少的可怜的数目.
 
 神鹰团队毫无希望能完成他们想做的游戏,但是他们做的前期开发工作实在是太有趣了.
-对于暴雪来说收购神鹰是合情合理的,遂改名北方暴雪(Blizzard North),开始往这个急需帮助的游戏里投钱投人.
+对于暴雪来说将神鹰收入囊中是合情合理的, 遂收购之,改名北方暴雪(Blizzard North),并开始往这个急需帮助的游戏里投钱投人.
 
 最早是一个星际争霸的程序员Collin Murray和我飞到红木城帮忙, 其他人在暴雪总部尔湾(Irvine)开发战网(battle.net)支持.
 包括互联网,局域网,以及UI界面(在公司内叫"胶水屏")来支持角色选择,加入游戏和其他游戏前的准备功能.
@@ -98,60 +97,65 @@ _破碎国度_ 是个回合制的策略游戏,作为 [X-Com](https://en.wikipedi
 魔兽争霸II只有六个核心程序员和两个支援程序员; 对于规模更大的星际争霸而言这完全不够,所以开发团队新添了一帮年轻且没啥经验的游戏程序员.
 他们自己还需要学习怎么写游戏代码,却得不到多少指导.
 
-我们代码的领导层也不是很强.
+我们项目的领导层也没有很强的领导力.
 我们应该给没什么经验的程序员在项目早期提供指导所以他们可以在游戏发布前学到一些必要知识, 但那时我们尚不知道这件事有多重要.
 所以对这帮绝地学徒而言,他们基本是自生自灭.
-我们问题的很大一部分就是我们如履薄冰: 每个程序员都在疯狂写代码以完成目标,却没有时间做代码审查,审计或者训练.
+我们问题的很大一部分就是我们如履薄冰: 每个程序员都在疯狂写代码完成目标,却没有时间做代码审查,审计或者训练.
 
-And not only were there inexperienced junior members on the team, the leader of the StarCraft programming effort had never architected a shipping game engine. 
-Bob Fitch had been programming games for several years with great results but his previous efforts were game ports, where he worked within an existing engine, and feature programming for Warcraft I and II, which didn’t require large-scale engine design. 
-And while he had experience as the tech lead for Shattered Nations, that project was canceled, therefore no validation of its architectural decisions was possible.
+问题不仅仅是团队里没什么经验的年轻成员,星际争霸代码团队的精英也从没有构架过一个完整的游戏引擎.
+Bob Fitch写过好几年的游戏,也有不少很棒的成果,但是他之前的经验都是在游戏端,他和已有的引擎打交道就可以写出魔兽争霸I和II,完全不需要大规模的引擎设计.
+尽管他也又破碎国度的领导经验,那个项目毕竟是被取消了,所以完全没法知道他在那边做架构的时候的一些决定是否合理.
 
-The team was incredibly invested in the project, and put in unheard of efforts to complete the project while sacrificing personal health and family life. 
-I’ve never been on a project where every member worked so fiercely. 
-But several key coding decisions in the project, which I’ll detail presently, would haunt the programming team for the remainder of the project.
+整个团队在项目上花了非常多的时间精力,这些闻所未闻的投入牺牲了团队成员的个人健康和家庭生活.
+我从来没在那个项目里说每个人都这么拼命三郎.
+但是项目中有几个关键的代码决策,我下面会讲的几个,会在整个开发周期里一直萦绕着代码团队,挥之不去.
 
 ## 有些事变了
 
-After spending months working to launch Diablo, and further months of cleanup effort and patching afterwards, I returned to help with the reboot of StarCraft. 
-I wasn’t looking forward to diving into another bug-fest, but that’s exactly what happened.
+在暗黑破坏神发布前干了几个月,以及之后又有些清理,补丁的几个月之后,我回去帮忙重启星际争霸.
+我没打算再来一场Bug盛宴,但是事情就是这么发生了.
 
-I thought it would be easy to jump back into the project because I knew the Warcraft code so well — I’d literally worked on every component. 
-I was instead terrified to discover that many components of the engine had been thrown away and partially rewritten.
+我以为我可以轻而易举的融入项目中, 毕竟我对魔兽争霸的代码太了解了: 每个部件的开发我都有参与过.
+然而我却有点惊恐的发现引擎的很多部分都已经被扔掉或者部分重写了.
 
-The game’s unit classes were in the process of being rewritten from scratch, and the unit dispatcher had been thrown out. 
-The dispatcher is the mechanism I created to ensure that each game unit gets time to plan what it wants to do. 
-Each unit periodically asks: “what should I do now that I finished my current behavior?”, “should I re-evaluate the path to get where I’m going?”, “is there a better unit to attack instead of the one that I’m targeting now?”, “did the user give me a new command?”, “I’m dead, how do I clean up after myself?”, and so forth.
+游戏中的单位类正在准备从零开始重写,并且单位调度器被扔掉了.
+调度器是我在游戏中创建的一个机制,来确保每个单位都能有时间决定它要做什么.
+每个单位都会周期性的询问:"当前动作执行完了,我应该干什么?", "我应该重新寻路去到我要去的地方吗?", "和我现在正在攻击的单位比起来有没有更好的单位可以攻击?", "玩家是不是给我一个新的命令了?", "我死了, 怎么清理我的尸体?", 这类的问题.
 
-There are good reasons code needs to be rewritten, but excising old code comes with risks as well. 
-Joel Spolsky said it most eloquently in Things You Should Never Do, Part I:
+即使有风险, 也有很多理由去重写代码; 退一步讲, 现有代码也是有风险的.
+(There are good reasons code needs to be rewritten, but excising old code comes with risks as well.)
+Joel Spolsky在 _你永远不该做的事, 第一卷(Things You Should Never Do, Part I)_ 里说的最不容置喙(eloquently):
 
-It’s important to remember that when you start from scratch there is absolutely no reason to believe that you are going to do a better job than you did the first time. 
-First of all, you probably don’t even have the same programming team that worked on version one, so you don’t actually have “more experience”. 
-You’re just going to make most of the old mistakes again, and introduce some new problems that weren’t in the original version.
+    你得记住, 当你重新开始的时候, 完完全全没有理由相信你会比第一次做的更好.
+    首先, 你的工程团队可能和原来的不一样, 所以你并不见得"更有经验".
+    事实上, 你只是会犯更多的老错误, 顺便引入第一版里本不存在的问题.
 
-The Warcraft engine had taken months of programming effort to get right, and while it needed rework for new gameplay features, a fresh programming team was now going to spend a great deal of time relearning lessons about how and why the engine was architected the way it was in the first place.
+魔兽争霸的引擎花了几个月才编写好, 为了加入星际争霸特有的新的游戏特性现在要重做.
+我们新组建的这个团队之后得话很多时间重新学习: 第一版的引擎为什么, 又是怎么编码才变成当时的构架的?
 
 ## 游戏引擎架构
 
 我以前用C给微软DOS写过魔兽世界的游戏引擎,用的Watcom编译器.
-With the switch to releasing on Microsoft Windows, Bob chose to use the Visual Studio compiler and re-architected the game engine in C++. 
-Both were reasonable choices but for the fact that — at that point — few developers on the team had experience with the language and more especially with its many pitfalls.
+现在我们转移到Windows了, Bob选择用Visual Studio编译器, 并且用C++重构游戏引擎.
+编译器和C++都是合情合理的选择, 只有一个问题: 在那时团队里只有很少的人有C++的经验, 更别提C++的各种坑.
 
-Though C++ has strengths it is easy to misuse. 
-As Bjarne Stroustrup, the language’s creator, so famously said: “C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.”
+尽管C++很强, 它很容易被误用.
+人尽皆知的C++语言的创造者, Bjarne Stroustrup说过: 
+"用C很容易打到自己的脚, C++很难; 不过你如果一不小心打到了, 你的整条腿都得废掉."
 
-History tells us that programmers feel compelled to try every feature of their new language during the first project, and so it was with class inheritance in StarCraft. 
-Experienced programmers will shudder when seeing the inheritance chain that was designed for the game’s units:
+历史的进程告诉我们程序员总是喜欢用在第一个项目里用上新语言的每一个特性, 所以写星际争霸的时候我们就滥用了类(class)和继承(inheritance).
+代码老手看到我们给游戏单位设计的继承链的时候怕是不寒而栗:
 
     CUnit < CDoodad < CFlingy < CThingy
 
-CThingy objects were sprites that could appear anywhere on the game map, but didn’t move or have behaviors, while CFlingys were used for creating particles; when an explosion occurred several of them would spin off in random directions. 
-CDoodad — after 14 years I think this is the class name — was an uninstantiated class that nevertheless had important behaviors required for proper functioning of derived classes. 
-And CUnit was layered on top of that. 
-The behavior of units was scattered all throughout these various modules, and it required an understanding of each class to be able to accomplish anything.
+`CThingy` 是精灵图(sprites), 他会在地图的任何地方出现, 但是不会移动没什么行为.
+`CFlingys` 则是创造粒子(particles)用的, 当游戏里什么东西炸了的时候会有一些粒子随机的四散开来.
+`CDoodad`... 我寻思我们14年前当时是这么命名的.
+这个类不能实例化, 只是对继承他的类封装了一些必要的方法.
+最后`CUnit` 是最顶上一层. 
+每个单位的行为都分散在各种模组里面, 你得对每个类都有深入的理解才能真正的写代码.
 
-And beyond the horror of the class hierarchy, the CUnit class itself was an unholy mess defined across multiple header files:
+除了糟糕透顶的继承关系, `CUnit`类本身也是一坨屎山, 其定义甚至像下面这样横跨了好几个头文件.
 
 ```cpp
 class CUnit ... {
@@ -162,80 +166,91 @@ class CUnit ... {
 };
 ```
 
-Each of those headers was several hundred lines, leading to an overall class definition that could at best be called amusing.
+每个头文件都有好几百行, 最终的类定义只能说是可笑至极.
 
-It wasn’t until many years later that the mantra “favor composition over inheritance” gained credence among programmer-kind, but those who worked on StarCraft learned the hard way much earlier.
+直到很多年以后"要组合不要继承"的观念才在程序员中流行起来, 不过那些在星际争霸中写过代码的人则用更辛苦的方法亲身体悟到了.
 
 ## 只剩两个月就要发布了!
 
-With its troubled early history, after the reboot the development team was pressured to finish up, and so schedules were bandied about that showed the game could be launched in two months.
+有这么一个混乱的起步, 重启团队要完成开发的压力很大.
+在盘根错节的日程安排中却可以发现游戏还有两个月就要发布了.
 
-Given the number of game units and behaviors that needed to be added, the changes necessary to switch from top-down to isometric artwork, a completely new map editor, and the addition of Internet play over battle.net, it was inconceivable that the game actually could ship in that time, even assuming that the art team, designers, sound engineers, game-balancers and testers could finish their end of the bargain. 
-But the programming team continually worked towards shipping in only two months for the next fourteen months!
+考虑到游戏单位的数量庞大, 他们的行为更加浩如烟海; 游戏视角从俯视变成了斜视, 绘制工作也非常庞杂; 我们还要一个全新的地图编辑器; 得加上战网来支持在线游戏.
+总而言之我们不太相信游戏能在两个月内做完 -- 即使艺术团队, 设计师, 音效师, 平衡组和测试组都如期交付也不行.
+开发团队则总处在"还有两个月就要发布了"的压力下忙了14个月.
 
-The entire team worked long hours, with Bob working stretches of 40 hours, 42 hours, even 48 hours programming. 
-As I recall no one else attempted these sorts of masochistic endeavors, though everyone was putting in massive, ridiculous hours.
+整个团队都在加班.
+Bob那时一周工作80个小时, 然后是82, 88小时.
+尽管每个人都加班很夸张, 但是我也不记得有谁像Bob那样努力到近乎自虐.
 
-My experiences developing Warcraft, with frequent all-nighters coding, and later Diablo, where I coded fourteen-plus hour days seven days a week for weeks at a time, suffered me to learn that there wasn’t any point in all-nighters. 
-Any code submissions [ha! what an appropriate word] written after a certain point in the evening would only be regretted and rewritten in the clear light of following days.
+我在魔兽争霸开的夜车, 以及在暗黑破坏神上几乎007的经验告诉我, 开夜车是完全没必要的.
+所有在夜里某个时间点以后提交\[哈!提交这个词太合适了\]的代码都只会在悔恨中和接下来几天的白天重写.
 
-Working these long hours made people groggy, and that’s bad when trying to accomplish knowledge-based tasks requiring an excess of creativity, so there should have been no surprises about the number of mistakes, misfeatures and outright bugs.
+这么加班让人迷幻, 这对做需要大量知识的工作来说很糟糕, 因为我们的工作要很多创造力.
+所以我们高处一大堆错误, 不合时宜的特性和漏洞也不奇怪.
 
-Incidentally, these sorts of crazy hours weren’t mandated — it was just the kind of stuff we did because we wanted to make great games. 
-In retrospect it was foolish — we could have done better work with more reasonable efforts.
+无独有偶的是, 我们加的班不是强制的: 只是我们想做出很棒的游戏而已.
+但是回头来看这又很蠢, 我们本可以用合理的精力做出更好的产品.
 
-One of my proudest accomplishments was to ship four Guild Wars campaigns in a two-year window without leading the development team down that dark path.
+我最引以为傲的成就就是我在两年的时间里领导了4个 _激战(Guild Wars)_ 的战役, 而没有把我的团队带下星际争霸那条道.
 
 ## 星际争霸游戏崩溃的最常见原因
 
-While I implemented some important features in StarCraft, including fog-of-war, line-of-sight, flying unit pathing-repulsion, voice-chat, AI reinforcement points, and others, my primary job gravitated to fixing bugs.
+尽管我实现了星际争霸的很多特性: 战争迷雾, 视野, 飞行单位路径分离, 语音聊天, 加强AI还有些别的, 我的工作却被吸引到了修bug上.
 
 等下: 语音聊天! 1998年?!? 是: 我1997年12月就全干好了.
-I used a 3rd-party voice-to-phoneme compressor, and wrote the code to send the phonemes across the network, decompress them, and then play them back on the other seven players’ computers.
+我用了一个第三方语音转音素的压缩器, 写了代码把这些音素传过网络, 解压, 然后在其他七个玩家的电脑上播放.
 
-But every single sound-card in our offices required a driver upgrade to make it work, if the sound card was even capable of full-duplex sound (simultaneous recording and playback of sounds), so I regretfully made the recommendation to scrap the idea. 
-The tech-support burden would have been so high that we would have spent more money on game support than we would have made selling the game.
+但是我们办公室的每一个声卡都要升级一个驱动才能工作... 前提是这个声卡还得支持同时录音和播放.
+所以我非常懊悔的建议团队还是别加这个功能.
+要不然的话技术支持的压力会大到我们雇游戏客服的钱都比我们卖游戏来的多.
 
-So anyway I fixed lots of bugs. 
-Some of my own, sure, but mostly the elusive bugs written by other tired programmers. 
-One of the best compliments I’ve received came just a few months ago, when Brian Fitzgerald, one of two best programmers I’ve had occasion to work with, mentioned a code-review of StarCraft; they were blown away by how many changes and fixes I had made over the entire code-base. 
-At least I got some credit for the effort, if only well after the fact!
+所以总之啦, 我修复了好多bug.
+有些bug是我的, 但是大部分是其他精疲力尽的程序员写的捉摸不透的一些bug.
+Brian Fitzgerald是和我合作过的最好的两个程序员之一. 
+有一次他审计星际争霸的代码的时候, 惊异于我在整个代码库里做的修改, 给了我我收到过的高的赞扬.
+尽管已经过去很久了, 但是至少我还是收了表扬的吗!
 
-Given all the issues working against the team, you might think it was hard to identify a single large source of bugs, but based on my experiences the biggest problems in StarCraft related to the use of doubly-linked linked lists.
+考虑到所有我们遇到的困难, 你可能会觉得很难找到一个大范围的漏洞.
+但是就我的经验来看星际争霸当时最大的漏洞是用双链表(double linked list).
 
-Linked lists were used extensively in the engine to track units with shared behavior. 
-With twice the number of units of its predecessor — StarCraft had a maximum of 1600, up from 800 in Warcraft 2 — it became essential to optimize the search for units of specific types by keeping them linked together in lists.
+链表用来追踪有相同行为的单位, 这在引擎里用的很多,
+魔兽争霸一局游戏最多只能有800个单位, 星际争霸翻了一倍.
+1600这个数字使得用链表把特定类型的单位放在一起加速搜索至关重要.
 
-Recalling from distant memory, there were lists for each player’s units and buildings, lists for each player’s “power-generating” buildings, a list for each Carrier’s fighter drones, and many many others.
+我依稀记得每个玩家的单位和建筑都有一个链表, 生产建筑也有链表, 航母也有链表记录战斗机的数量, 还有好些其他的东西都用链表.
 
-All of these lists were doubly-linked to make it possible to add and remove elements from the list in constant time — O(1) — without the necessity to traverse the list looking for the element to remove — O(N).
+所以这些链表都是双向链表, 所以添加和删除元素都是O(1)的时间复杂度; 否则的话得走遍整个列表去找要删除的对象, 那就是O(N)的复杂度了.
 
-Unfortunately, each list was “hand-maintained” — there were no shared functions to link and unlink elements from these lists; programmers just manually inlined the link and unlink behavior anywhere it was required. 
-And hand-rolled code is far more error-prone than simply using a routine that’s already been debugged.
+很不幸的是, 每个链表都是手动维护的: 没有一个共享的函数来链接或者打断链接; 程序员在任何需要的地方手动把链接,断链接写到程序里.
+而手动重写要比用一个早已修复过的函数更容易产生bug.
 
-Some of the link fields were shared among several lists, so it was necessary to know exactly which list an object was linked into in order to safely unlink. 
-And some link fields were even stored in C unions with other data types to keep memory utilization to a minimum.
+有些链表元素还被链接在了其他链表里面, 所以很有必要知道一个对象到底被链接在那些链表里了才能安全的断链.
+还有一些元素甚至被存在了C的union里面来减少内存开销.
 
-So the game would blow up all the time. 
-All the time.
+所有游戏总是崩溃.
+总是.
 
 ## 但你为啥要这么做啊?
 
-Tragically, there was no need for these linked-list problems to exist. 
-Mike O’Brien, who, along with Jeff Strain, cofounded ArenaNet with me, wrote a library called Storm.DLL, which shipped with Diablo. 
-Among its many features, storm contained an excellent implementation of doubly-linked lists using templates in C++.
+很不幸的是, 这种链表问题根本不应该存在.
+我和Mike O’Brien还有 Jeff Strain一起创建的ArenaNet. 
+我们写了一个库叫Storm.DLL, 这个库和暗黑破坏神一起发布的.
+除了其他许许多多的特性, Storm包括了一个用模板(template)实现的非常好的双链表.
 
-During the initial development of StarCraft, that library was used. 
-But early in the development the team ripped out the code and hand-rolled the linked-lists, specifically to make writing save-game files easier.
+星际争霸最早开发的时候这个库是用了的.
+但是游戏开发早起我们把整个代码都掀了重写了一份链表, 主要是为了让保存游戏的文件更好些.
 
 我来说说保存游戏你就懂了.
 
 ## 保存游戏
 
 我在开发魔兽争霸之前玩的很多游戏中保存游戏的功能都很糟糕.
-Gamers who played any game created by Origin will remember how looooooong it took to write save-game files. 
-I mean sure, they were written by slow microprocessors onto hard-drives that — by today’s standards — are as different as tricycles and race cars. 
-But there was no reason for them to suck, and I was determined that Warcraft wouldn’t have those problems.
+
+所有玩过Origin家的游戏的人都记得写一个保存游戏的文件要多多多多多久.
+我的意思是, 没错他们是在微处理器和机械硬盘上工作.
+如果用现在的标准的话大概相当于三轮车对赛车.
+但是他们也不应该做的这么糟啊, 所以我决定魔兽争霸一定不能有这种问题.
 
 So Warcraft did some tricks to enable it to write large memory blocks to disk in one chunk instead of meandering through memory writing a bit here and there. 
 The entire unit array (600 units times a few hundred bytes per unit) could be written to disk in one chunk. 
