@@ -252,51 +252,60 @@ Brian Fitzgerald是和我合作过的最好的两个程序员之一.
 如果用现在的标准的话大概相当于三轮车对赛车.
 但是他们也不应该做的这么糟啊, 所以我决定魔兽争霸一定不能有这种问题.
 
-So Warcraft did some tricks to enable it to write large memory blocks to disk in one chunk instead of meandering through memory writing a bit here and there. 
-The entire unit array (600 units times a few hundred bytes per unit) could be written to disk in one chunk. 
-And all non-pointer-based global variables could similarly be written in one chunk, as could each of the game-terrain and fog-of-war maps.
+魔兽争霸用了一些小技巧来把大块的内存写到硬盘离去, 而不是在内存里弯弯绕绕的找要存储的字节.
+一整个单位列表(600个单位乘上每个单位几百个字节) 可以一整块的写进硬盘.
+所有不基于指针的全局变量, 游戏内地表和战争迷雾也都可以用类似的方法
 
-But oddly enough, this ability to write the units to disk in one chunk wasn’t essential to the speed of writing save game files, though it did drastically simplify the code. 
-But it worked primarily because Warcraft units didn’t contain “pointer” data.
+但是很奇怪的是, 把这些单位一整块的写进硬盘并没有很大效率的提高写进保存游戏文件的时间, 尽管这极大的简化了我们代码.
+这个方法有用主要是因为单位不包含"指针"数据.
 
-StarCraft units, which as mentioned previously contained scads of pointers in the fields for linked lists, was an entirely different beast. 
-It was necessary to fixup all the link pointers (taking special care of unioned pointer fields) so that all 1600 units could be written at once. 
-And then unfixup the link pointers to keep playing. 
-Yuck.
+之前提到过, 星际争霸的单位中包含了大量的用链表存起来的成员.
+这就导致星际争霸和魔兽争霸保存游戏的功能完全不一样了.
+我们得把所有链表的指针都整理好(还得特别小心缠在一起的指针), 这样1600个单位的数据才能一次性被写入.
+然后你还得把链表重整放回内存才能恢复游戏.
+啊呀.
 
 ## 改回去!
 
-So after fixing many, many linked list bugs, I argued vehemently that we should switch back to using Storm’s linked lists, even if that made the save-game code more complicated. 
-When I say “argued vehemently”, I should mention that was more or less the only way we knew how to argue at Blizzard — with our youthful brashness and arrogant hubris, there was no argument that wasn’t vehement unless it was what was for lunch that day, which no one much wanted to decide.
+所以修正了好多好多链表bug后, 我言辞激烈的辩驳说我们应该改回Storm的链表,即使保存游戏会变得很复杂.
+我说"言辞激烈"的时候, 我应该提一下我们那时在暴雪唯一知道的争辩方式就是这样.
+一帮年轻, 傲慢的年轻人, 所有争论都是"言辞激烈"的 -- 除了讨论那天午饭吃啥, 没人想点单.
 
 我输了那场争论.
-Since we were only “two months” from shipping, making changes to the engine for the better was regularly passed over for band-aiding existing but sub-optimal solutions, which led to many months of suffering, so much that it affected my approach to coding (for the better) ever since, which is what I’ll discuss in part two of this article.
+既然我们只有"两个月"就要发布了, 往好的方向修改引擎这种动议经常被否决, 取而代之的是一些像创可贴一样现成但不是很好的解决方案.
+这导致了很多个月的折磨, 如此痛苦以至于我写(好)代码的能力都受到了影响, 这件事我在第二部分再讨论.
 
 ## 再加点创可贴: 星际争霸的寻路算法
 
-I wanted to mention one more example of patching over bugs instead of fixing the underlying problem: when StarCraft switched from top-down artwork to isometric artwork, the background tile-graphics rendering engine, which dated back to code I had written in 1993/4, was left unchanged.
+我还想提另一件事情, 也是我们如何修补漏洞而不是从根本上解决问题的.
+当星际争霸从俯视视角改到斜视视角的时候, 背景渲染引擎从来没变过 -- 后者是我在93年四月写的.
 
-Rendering isometric-looking tiles using a square tile engine isn’t hard, though there are difficulties in getting things like map-editors to work properly because laying down one map tile on another requires many “edge fixups” since the map editor is trying to place diagonally-shaped images drawn in square tiles.
+用方形渲染引擎渲染斜视纹理也不是那么难, 不过会让地图编辑器这种东西变得难做.
+因为在地图上把一层纹理放在另一层上的时候你得吧"边缘"修补好, 因为地图编辑器会试着去摆放横平竖直的图片, 但你的内容却是斜的.
 
-While rendering isn’t so bad, isometric path-finding on square tiles was very difficult. 
-Instead of large (32×32 pixel) diagonal tiles that were either passable or impassable, the map had to be broken into tiny 8×8 pixel tiles — multiplying the amount of path-searching by a factor of 16 as well as creating difficulties for larger units that couldn’t squeeze down a narrow path.
+总的来说渲染也不是很糟糕, 寻路则变得非常困难.
+以前我们有大块的纹理(32 x 32像素), 这些纹理亦或是能经过或是不能经过.
+但是现在地图要被划分成8x8像素的小纹理快, 寻路的压力就大了16倍.
+另外大型单位如果不能挤进一条小路的话也给寻路造成了麻烦.
 
-Had Brian Fitzgerald not been a stellar programmer, the path-finding problem would have prevented the game from launching indefinitely. 
-As it was pathing was one of the problems that was only finalized at the end of the project. 
-I plan to write more about path-finding in StarCraft because there are lots interesting technical and design bits.
+Brian Fitzgerald是个优秀的程序员, 若不是他我们的游戏可能无限期跳票. 
+毕竟寻路问题才是整个项目最后一个完成的部分.
+我打算另写一些星际争霸的寻路问题, 因为这里面有很多又去的技术和设计细节.
 
 ## 第一部分结语
 
-So you’ve heard me whine a bit about how difficult it was to make StarCraft, largely through poor choices made at every level of the company about the game’s direction, technology and design.
+你已经听我抱怨了好多关于做星际争霸有多难的事情了.
+搞这么复杂主要是因为游戏的方向也好, 技术和设计也好, 每个层面, 每个方向决策都很糟糕.
 
-We were fortunate to be a foolhardy but valiant crew, and our perspicacity carried the day. 
-In the end we buckled down and stopped adding features long enough to ship the game, and players never saw the horror show underneath. 
-Perhaps that’s another benefit of compiled languages over scripted ones like JavaScript — end users never see the train wreck!
+很幸运我们的团队经常蛮干但不受挫折, 而最终带我们走向成功的是我么你的洞察力.
+最后我们停了下来, 游戏能发布的时候就不在添加新的特性, 玩家也没看到游戏内部糟糕的代码运行.
+也许这是编译型语言比JavaScript这种解释型语言的好处吧: 用户根本不知道内部已经乱成一坨了.
 
-In part two of this article I’m going to get even more technical and talk about why most programmers get linked lists wrong, then propose an alternative solution that was used successfully for Diablo, battle.net and Guild Wars.
+在这篇文章的第二部分我回去讲一些更加技术的部分.
+我会聊聊为什么大部分程序员都搞不定链表, 举出一个在暗黑破坏神, 战网和激战里用的成功方案.
 
-And even if you don’t use linked-lists, the same solutions carry over to more complex data structures like hash tables, B-trees and priority queues. 
-Moreover, I believe the underlying ideas generalize well to all programming. 
-But let’s not get ahead of ourselves; that’s another article.
+而即使你不用链表, 同样的思路也能用到更复杂的数据结构离去, 诸如哈希表, B树, 优先队列这类的.
+更进一步的是, 我相信底层的思维方法可以泛化到所有编程工作中.
+但是先别高兴的太早, 那是另一篇文章了.
 
-Thanks for reading this far, and sorry I haven’t yet discovered how to write concisely.
+感谢你能读到现在, 抱歉我还没搞明白怎么写的简明扼要.
