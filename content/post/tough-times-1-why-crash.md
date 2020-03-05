@@ -30,7 +30,7 @@ summary = " "
 至于后续几篇会不会翻译, 啥时候鸽完, emmmm看本砖工啥时候有空, 先放出链接供有兴趣的去读.
 
 - [_星际争霸_ 的艰辛之路:为什么开发时游戏总在崩溃?(Tough times on the road to Starcraft: Why StarCraft crashed frequently during development)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
-- [躲开常见的链表导致的崩溃: 我们为何本可以修好很多常见的问题(Avoiding game crashes related to linked lists:  How we could have fixed the most common causes)](https://www.codeofhonor.com/blog/avoiding-game-crashes-related-to-linked-lists)
+- [躲开常见的链表导致的崩溃: 为什么我们本可以修复一些常见错误(Avoiding game crashes related to linked lists:  How we could have fixed the most common causes)](https://www.codeofhonor.com/blog/avoiding-game-crashes-related-to-linked-lists)
 - [_星际争霸_ 的寻路补丁(The StarCraft path-finding hack)](https://www.codeofhonor.com/blog/the-starcraft-path-finding-hack)
 - [_星际争霸_: 分崩离析的"太空魔兽"(StarCraft: Orcs in space go down in flames)](https://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames)
 
