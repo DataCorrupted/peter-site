@@ -3,7 +3,7 @@ title = "星际争霸的艰辛之路:为什么开发时游戏总在崩溃?"
 
 date = 2020-03-01T12:36:00
 lastmod = 2020-03-04T23:59:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick Wyatt"]
