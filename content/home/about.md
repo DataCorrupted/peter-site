@@ -32,4 +32,4 @@ You can find my first paper _Integrity_ [here](https://link.springer.com/chapter
 
 I have a colorful personal life. 
 My interests including archery, dogs and si-fi. I like driving, but manual transmission only. I am also a foodie and a (mediocre) cook, loves [huaiyang cuisine](https://en.wikipedia.org/wiki/Huaiyang_cuisine) and [fusion cuisine](https://en.wikipedia.org/wiki/Fusion_cuisine). 
-My gf is [Kristen](https://www.instagram.com/sight_of_stars19/), she's a super sweet girl, I'm lucky to have her :) 
+I'm dating [Kirsten](https://www.instagram.com/sight_of_stars19/), she's a super sweet girl, I'm lucky to be with her :) 
