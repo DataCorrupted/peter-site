@@ -27,8 +27,9 @@ weight = 10
 
 # Biography
 
-I am a Ph.D. candidate in UC Davis. My focus now is in [fuzzing](https://en.wikipedia.org/wiki/Fuzzing). I have a submitted work on how to actively detect integer arithmetic errors using fuzzers. Since I haven't heart from the committee, I couldn't share more details with you.
+I am a Ph.D. candidate in UC Davis. My focus now is in [fuzzing](https://en.wikipedia.org/wiki/Fuzzing). 
+You can find my first paper _Integrity_ [here](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_20).
 
 I have a colorful personal life. 
 My interests including archery, dogs and si-fi. I like driving, but manual transmission only. I am also a foodie and a (mediocre) cook, loves [huaiyang cuisine](https://en.wikipedia.org/wiki/Huaiyang_cuisine) and [fusion cuisine](https://en.wikipedia.org/wiki/Fusion_cuisine). 
-My gf is still a null pointer so I can't reference her here or this site crashes. XD.
+My gf is [Kristen](https://www.instagram.com/sight_of_stars19/), she's a super sweet girl, I'm lucky to have her :) 
