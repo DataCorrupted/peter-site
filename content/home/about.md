@@ -29,7 +29,3 @@ weight = 10
 
 I am a Ph.D. candidate in UC Davis. My focus now is in [fuzzing](https://en.wikipedia.org/wiki/Fuzzing). 
 You can find my first paper _Integrity_ [here](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_20).
-
-I have a colorful personal life. 
-My interests including archery, dogs and si-fi. I like driving, but manual transmission only. I am also a foodie and a (mediocre) cook, loves [huaiyang cuisine](https://en.wikipedia.org/wiki/Huaiyang_cuisine) and [fusion cuisine](https://en.wikipedia.org/wiki/Fusion_cuisine). 
-I'm dating Kirsten, she's a super sweet girl, I'm lucky to be with her :) 
