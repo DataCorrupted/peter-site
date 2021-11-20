@@ -9,7 +9,7 @@ draft = false
 authors = ["Peter Rong"]
 
 tags = []
-summary = ""
+summary = "刚刚过一面， 发点经验"
 
 +++
 
@@ -72,7 +72,7 @@ struct Dummy2 {
 }
 ```
 
-问多态，这个我倒是答出来了； 进一步问我有没有静态多态(static polymorphism)， 我想了想你说的别是函数重载把？
+啥是多态，这个我倒是答出来了； 进一步问我有没有静态多态(static polymorphism)， 我想了想你说的别是函数重载把？
 他说是。
 
 最后算是一个应用题。 
