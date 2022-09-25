@@ -9,15 +9,13 @@ draft = false
 authors = ["Peter Rong"]
 
 tags = ["Life"]
-summary = ""
+summary = "这篇文章的本质是emo，晒图， 和嘴碎， 习惯了我冷静理智设定的朋友请火速撤离"
 
 +++
 
-**这篇文章的本质是emo，晒图， 和嘴碎， 习惯了我冷静理智设定的朋友请火速撤离**
+****
 
-**这篇文章的本质是emo，晒图， 和嘴碎， 习惯了我冷静理智设定的朋友请火速撤离**
-
-**这篇文章的本质是emo，晒图， 和嘴碎， 习惯了我冷静理智设定的朋友请火速撤离**
+  <img src="/img/post/road-trip/0.jpg"/>
 
 ## 1
 
@@ -31,10 +29,10 @@ summary = ""
 Road trip的问题在于你可以开到任何你想去的地方去， 在任何地方歇脚； 但你也可能在任何地方抛锚， 在任何地方被困。
 很难不去思考为什么要执行这趟Road trip。
 除了我从暑假以来就一直强烈要离开Davis的愿望以外， 大约就是为以后的环美Road trip做准备？
-她从Ann Arbor出发， 要下午才到芝加哥和我回合。
+她从Ann Arbor出发， 要下午才到芝加哥和我会和。
 天还没完全亮，至少在她来之前我还不知道要做什么， 于是反复在去loop的蓝线上拨弄这些想法。
+  
   <img src="/img/post/road-trip/IMG_2264.jpg"/>
-
 
 索性在loop里瞎逛， 我喜欢在钢铁森林里穿梭。
 你既可以选择任何想去的地方而不受拘束， 又不用担心自己走丢了不知道要怎么回去。
@@ -46,7 +44,7 @@ Road trip的问题在于你可以开到任何你想去的地方去， 在任何�
   <img src="/img/post/road-trip/IMG_2214.jpg"/>
 
 
-下午和伙伴回合以后选的地方是Navy Pier。
+下午和伙伴见面以后选的地方是Navy Pier。
 她没去过， 而我恰好又想去回忆一下多年前和朋友一起去的那个夜晚。
 在Navy Pier的一家饭店点到了非常好吃的烤肉， 以及先苦后甜有一股橙香的啤酒， 喝起来非常有意思。
 
@@ -63,28 +61,22 @@ Road trip就是这样， 你不可以说“我们明天再来”， 每晚都是
   <img src="/img/post/road-trip/IMG_2297.jpg"/>
   <img src="/img/post/road-trip/IMG_2284.jpg"/>
 
-
 ## 2
 
   <img src="/img/post/road-trip/1.jpg"/>
 
-
-
 出了城市就是无垠的玉米地。
-从密西西比河， 到密苏里河， 两条美国人心中的母亲河中间夹着Iowa。
+从密西西比河到密苏里河， 两条美国人心中的母亲河中间夹着Iowa。
 Iowa则支起了万亩良田， 数不清的玉米地支起了河流一般的玉米糖浆， 再用这些糖浆支起整个现代食品工业。
-
 而我们驰骋其中。
 
   <img src="/img/post/road-trip/IMG_2348.jpg"/>
 
-
-这么想来， Iowa大约确实是挺无聊的， 我们除了加油休息几乎没有停留。
+Iowa大约确实是挺无聊的， 我们除了加油休息几乎没有停留。
 即使是我们的住处也在密苏里河西岸的Omaha——已经到了Nebraska。
 
   <img src="/img/post/road-trip/IMG_2378.jpg"/>
   <img src="/img/post/road-trip/IMG_2379.jpg"/>
-
 
 后来我才意识到， 原来高速的出口编号各州是独立的。
 每个州都会从1号出口开始，直到这条路走出这个州。
@@ -102,33 +94,35 @@ Nebraska... the good life
   <img src="/img/post/road-trip/IMG_2385.jpg"/>
   <img src="/img/post/road-trip/IMG_2389.jpg"/>
 
+第一天最大的意外就是开车一天并没有很累。
+说是要开八个小时，但是一人一半也就可以接受。
+二来嘛， 有朋友在你身边陪聊， 一只在吧唧嘴就很难犯困。
+白天的时候还有些拘束聊的都是学术现状， 本科的朋友， 一些上科大不得不吐的槽； 到了晚上就多少有点放飞自我。
+而当我发现我离开上科大时和犹友人共同创办的一个seminar被延续下来甚至她是当时的负责人的时候更是高兴的不行。
+Marcus Warner那句"On the lake out of Idaho, where the forest hears all I know"基本可以改成, "On the road out of Chicago, where the corns heart all I know"而你甚至还可以押上。
 
 ## 3
 
   <img src="/img/post/road-trip/2.jpg"/>
 
-
 从Omaha出发要穿越整个Nebraska， 从454号出口一直数到1号就算进了Colorado。
 这一路总算感受到了一些变化。
 气候开始变得干燥， 玉米地也没有从前那么狂放， 而是围着灌溉车小心的裹成一块圆形的绿岛。
-越往Colorado走， 绿岛越稀疏， 牛羊越密集， 直到最后荒的连牛羊也不剩下了， 便知道我们进了Colorado。
+越往西走绿岛越稀疏， 牛羊越密集， 直到最后荒的连牛羊也不剩下了， 便知道我们进了Colorado。
 
   <img src="/img/post/road-trip/IMG_2394.jpg"/>
   <img src="/img/post/road-trip/IMG_2446.jpg"/>
 
-
 只不过花了半天而已。
-
-早在快出Nebraska的时候伙伴就和我打赌，说我们要多久开到前面的乌云， 还有多久开始下雨。
+快出Nebraska的时候伙伴就和我打赌，说我们要多久开到前面的乌云， 还有多久开始下雨。
 等我终于理清赌注再说出“二十分钟”的时候，“啪”一滴雨打在玻璃上宣布我的失败。~~损失一箱油钱。~~
-进Colorado最惊险的事情便是这场暴雨。眼看着前面的阳光明媚， 自己头顶的云却在疯狂宣泄。
+在Colorado最惊险的事情便是这场暴雨。眼看着前面的阳光明媚， 自己头顶的云却在疯狂宣泄。
 我在副驾不得不提起精神帮她观察路况， 时不时提醒她开慢点。
 
   <img src="/img/post/road-trip/IMG_2476.jpg"/>
   <img src="/img/post/road-trip/IMG_2435.jpg"/>
   <img src="/img/post/road-trip/IMG_2452.jpg"/>
   <img src="/img/post/road-trip/IMG_2468.jpg"/>
-
 
 我们本该去丹佛， 最后选择了北边一点的卫星城Fort Collins。
 这可能就是我热爱Road trip的原因了， 计划是计划， 但方向盘最终在我们手上。
@@ -138,16 +132,18 @@ Nebraska... the good life
   <img src="/img/post/road-trip/IMG_2504.jpg"/>
   <img src="/img/post/road-trip/IMG_2483.jpg"/>
 
-
 这也可能是我最开心的一晚上。
 原因吗说出来都有点蠢。
 我被一杯长岛冰茶灌多了肚子难受， 让朋友带我去附近的冰淇淋店买点冰淇淋填填肚子。
 至于有多醉呢， 大约就是我本来想去的冰淇淋店和我发给朋友导航的地址根本不是同一家，这当然是我之后看自己的timeline才意识过来的了。
-一路上她居然让我点我最喜欢的深夜飙车专辑A Moment Apart， 整个人摇的不要太high。
-也是在摇头晃脑之间感受到了一种罕见的温暖。
+路上点了我最喜欢的深夜飙车专辑A Moment Apart， 整个人摇的不要太high。
+
+我不太出门喝酒。一部分原因是喝醉了以后谁能take me home对我来说是个big deal。
+因为本质上你在把自己的一部分托付给另一个人， 相信她会照顾好你。
+~~考虑到我醉成这样不相信也晚了~~
+于是便在在摇头晃脑之间感受到了一种罕见的温暖。
 
   <img src="/img/post/road-trip/IMG_2517.jpg"/>
-
 
 另一件颇有意思的尝试是我们早上起来去Fort Collins湖边看了日出。
 朋友和我说想去这个湖， 我说听你的， 你要是六点叫我起床我也可以。 ~~然后她就真的六点叫我起床了。~~
@@ -156,16 +152,13 @@ Nebraska... the good life
 
   <img src="/img/post/road-trip/IMG_2526.jpg"/>
 
-
 ## 4
 
   <img src="/img/post/road-trip/3.jpg"/>
 
-
 我们在Fort Collins食用了致死量brunch， 因为我们觉得今天横穿Wyoming的日程实在是荒大约也没什么吃的，索性跳过了午饭环节。
 
   <img src="/img/post/road-trip/IMG_2535.jpg"/>
-
 
 离开Fort Collins就开始了山路， wild west终于向我们走来。
 和昨天的荒凉不同，由于有了起伏， 你能看到路的尽头。开车就像一本翻页书。
@@ -174,36 +167,45 @@ Nebraska... the good life
 
   <img src="/img/post/road-trip/IMG_2547.jpg"/>
   <img src="/img/post/road-trip/IMG_2580.jpg"/>
+
+“你似乎很懂中土世界欸。”  
+“没有啦我也是假的托尔金粉， 只读过霍比特人。”
+
+也是这时我们掰扯起了互相的兴趣爱好。
+我会给她介绍科幻文学近一个世纪的发展， 我最近读的历史书， 以及我逢人就安利的黑暗的左手。
+我们甚至可以聊女权， 一起幻想一个无性别的社会会是什么样的。
+她会带我听小王子， 汉密尔顿这样的歌剧。我从没想到法语会这么好听。
+我告诉她我喜欢印象派的画， 喜欢日出印象里的那些小船； 她则会告诉我她喜欢象征主义， 喜欢The kiss里用符号对男女的特性做出的抽象。
+也许我们的兴趣完全不同， 但让我兴奋的是她有自己专注的一亩三分地， 有自己完整的审美和喜好。
+
+是个有趣的灵魂。
+
   <img src="/img/post/road-trip/IMG_2634.jpg"/>
   <img src="/img/post/road-trip/IMG_2676.jpg"/>
 
-
-翻过最后一座山才算是进了Utah， 也就到了盐湖城。
-我很喜欢这个城市的夜色。
+翻过最后一座山才算是进了Utah， 也就到了盐湖城。我很喜欢这个城市的夜色。
 酒吧门口就有警察和路人闲扯，即使是晚上九点路上也有不少街头艺人， 非常有生活气息。
-可惜没留下什么照片，我在沉迷于和伙伴胡扯美国历史， 黑奴的3/5票和她为什么想读博。
+可惜没留下什么照片，我在沉迷于和伙伴胡扯我们为什么要读博， 我们各自的理想和未来。
 但我们去的White Horse~~白马会所~~ 真是个非常棒的酒吧，酒保人美心善， 他还会给我们写鸡尾酒的配方。
 属于是有机会下次一定再去的城市。
 
   <img src="/img/post/road-trip/20220925_143254.jpg"/>
 
-
-
 ##  5
 
   <img src="/img/post/road-trip/4.jpg"/>
 
-
 我们并没有机会在盐湖城多逗留。离开之前只是去盐湖公园逛了逛。
-在这里开车则更多是随性。我当时看到Salt Lake State Park的时候问了问伙伴当即下了高速。
+在这里开车则更多是随性。
+我当时看到Salt Lake State Park的时候问了问伙伴当即下了高速。
 幸好多年前学车的时候老爹教我要记得看路牌。
+
   <img src="/img/post/road-trip/IMG_2730.jpg"/>
   <img src="/img/post/road-trip/IMG_2687.jpg"/>
   <img src="/img/post/road-trip/IMG_2689.jpg"/>
   <img src="/img/post/road-trip/IMG_2698.jpg"/>
   <img src="/img/post/road-trip/IMG_2712.jpg"/>
   <img src="/img/post/road-trip/IMG_2723.jpg"/>
-
 
 在State Park学到盐湖本来要比现在大得多， 现在的盐湖城也曾经在湖底。
 所以离开盐湖城的一路上都可以看到很多散落的盐场和浅浅的盐湖。
@@ -213,23 +215,40 @@ Nebraska... the good life
   <img src="/img/post/road-trip/IMG_2795.jpg"/>
   <img src="/img/post/road-trip/IMG_2811.jpg"/>
 
+这一路是我在开， 她则一直处于哇好看的拍拍拍模式。
+终于在他的央求下路边停车~~其实是我自己眼馋~~， 下去走走。
+路边的泥地看起来非常结实， 甚至有车辙在上面不知道是哪位朋友在上面放飞自我了。
+但其实非常松软。我和朋友试图下去就直接陷进去半个jio，我愣是被她拉上来的。
+所以不要尝试。
+
+  <img src="/img/post/road-trip/IMG_2788.jpg"/>
+  <img src="/img/post/road-trip/IMG_2789.jpg"/>
 
 过了盐场就进了Nevada，又一次是荒漠。 
 但和Colorado的丘陵上上下下不一样的是，Nevada的路经常带我们在山脚间徘徊。
 这也是整条路在地图上看起来弯弯折折的原因。
-在这里经历的最大的风险是我算错了油耗， 而两个加油站相隔80公里。
-我开到加油站的时候可能只剩一升油。
+在这里经历的最大的风险是我们错过了午餐， 她低血糖有气无力； 而我又算错了油耗， 汽油刚好能开到80公里外的加油钻。
+到加油站的时候可能只剩一升油。
 
   <img src="/img/post/road-trip/IMG_2770.jpg"/>
-  <img src="/img/post/road-trip/IMG_2889.jpg"/>
 
+人加满碳水， 车加满汽油。
+休息间我们聊起了我相处了快十年的朋友。她满是好奇的问我维持一个这么多年的朋友的秘诀是什么。
+我快速审视了一下我轻而易举就似乎屹立不倒的几段友情和费尽心机但都草草了之的爱情（如果能被称之为爱情的话）
+我想所有关系都是一样的吧~~也不知道谁给我的贼胆comment on relationships~~，你首先是个人， 然后你才是其他人的朋友和伴侣。
+Be your own person，大家都有自己的事要忙就别去搞绑定； 剩下的就是维持着不要走散。
+
+我知道一些她的过去， 但我仍然没料到这句“Be your own person”会这么打动她。
+“你要是开课我一定报名”
+我轻笑， 没想到我们连这个也契合。
+
+  <img src="/img/post/road-trip/IMG_2889.jpg"/>
 
 晚上才到Reno。
 这并不是我喜欢的一个地方， 赌场酒店过于纸醉金迷， 加上都是中老年人在赌博， 总是让我觉得格格不入。
 当然更加震撼我妈的是在赌场星巴克买了一杯十块的拿铁被告知这里有“赌场税”。
 
   <img src="/img/post/road-trip/IMG_2890.jpg"/>
-
 
 ## 6
 
@@ -251,4 +270,4 @@ Nebraska... the good life
 当然遇到过风险， 但只要你的伙伴在身边就有一种“没什么解决不了”的安全感。
 所以如果给环美的Road trip有什么建议的话：
 
-去他的计划， 挑好座驾， 选好队友， 即刻启程。
+去他的计划， 选好队友， 即刻启程。
