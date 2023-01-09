@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["Life"]
+tags = ["Life", "YearLog"]
 summary = "相信人有自由意志唯一的问题是, 你的人生难题从无力变成了在未知和无力之间徘徊."
 
 +++
