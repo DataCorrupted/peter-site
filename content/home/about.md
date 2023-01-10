@@ -27,5 +27,6 @@ weight = 10
 
 # Biography
 
-I am a Ph.D. candidate in UC Davis. My focus now is in [fuzzing](https://en.wikipedia.org/wiki/Fuzzing). 
-You can find my first paper _Integrity_ [here](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_20).
+I am a Ph.D. candidate in UC Davis. 
+My focus now is in [fuzzing](https://en.wikipedia.org/wiki/Fuzzing). 
+You can read my first and second paper [_Integrity_](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_20) and [_Valkyrie_](https://www.cs.ucdavis.edu/~hchen/paper/rong2022valkyrie.pdf).
