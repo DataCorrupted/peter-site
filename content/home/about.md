@@ -10,8 +10,8 @@ weight = 10
 # List your academic interests.
 [interests]
   interests = [
-    "Security",
     "Fuzzing",
+    "Software Analysis",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -21,12 +21,12 @@ weight = 10
   year = 2019
 [[education.courses]]
   course = "Ph.D. in Computer Science"
-  institution = "UC Davis"
+  institution = "University of California, Davis"
   year = 2024
 +++
 
 # Biography
 
-I am a Ph.D. candidate in UC Davis. 
-My focus now is in [fuzzing](https://en.wikipedia.org/wiki/Fuzzing). 
-You can read my first and second paper [_Integrity_](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_20) and [_Valkyrie_](https://www.cs.ucdavis.edu/~hchen/paper/rong2022valkyrie.pdf).
+I am a Ph.D. candidate in University of California, Davis. 
+My focus now is in fuzzing, software analysis using LLM, compiler testing. 
+You can read my papers: [_Integrity_](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_20), [_Valkyrie_](https://www.cs.ucdavis.edu/~hchen/paper/rong2022valkyrie.pdf).

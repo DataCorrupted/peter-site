@@ -15,6 +15,10 @@ weight = 40
 
 +++
 
+**ECS153(23Spring)**: Computer Scurity, TA
+
+**ECS032A(20Fall)**: Introduction to Programming, TA
+
 [**CS110(18Spring)**](http://shtech.org/course/ca/18s/): Computer Architecture I, TA
 
 **SI100C(17Fall)**: Introduction to Computer Science Leading, TA

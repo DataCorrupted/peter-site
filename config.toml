@@ -230,10 +230,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/DataCorrupted"
 
-   [[params.social]]
-     icon = "facebook"
-     icon_pack = "fab"
-     link = "https://www.facebook.com/profile.php?id=100011167324159&ref=bookmarks"
+#    [[params.social]]
+#      icon = "facebook"
+#      icon_pack = "fab"
+#      link = "https://www.facebook.com/profile.php?id=100011167324159&ref=bookmarks"
 
   [[params.social]]
     icon = "twitter"
@@ -245,18 +245,18 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/yuyang-peter-rong-648109127/"
 
-  [[params.social]]
-    icon = "zhihu"
-    icon_pack = "fab"
-    link = "https://www.zhihu.com/people/rong-yu-yang-45/activities"
+#   [[params.social]]
+#     icon = "zhihu"
+#     icon_pack = "fab"
+#     link = "https://www.zhihu.com/people/rong-yu-yang-45/activities"
 
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "file/cv/resume_eng.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -294,53 +294,53 @@ enableGitInfo = false
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
-    name = "CV"
-    identifier = "CV"
+    name = "Resume"
+    url = "file/cv/resume_eng.pdf"
     weight = 6
-    [[menu.main]]
-        name = "2-page CV(eng)"
-        parent = "CV"
-        url = "file/cv/cv.pdf"
-        weight = 1
-    [[menu.main]]
-        name = "1-page Resume(eng)"
-        parent = "CV"
-        url = "file/cv/resume_eng.pdf"
-        weight = 2
-    [[menu.main]]
-        name = "1-page Resume(chn)"
-        parent = "CV"
-        url = "file/cv/resume_chn.pdf"
-        weight = 3
+#    [[menu.main]]
+#        name = "2-page CV(eng)"
+#        parent = "CV"
+#        url = "file/cv/cv.pdf"
+#        weight = 1
+#    [[menu.main]]
+#        name = "1-page Resume(eng)"
+#        parent = "CV"
+#        url = "file/cv/resume_eng.pdf"
+#        weight = 2
+#    [[menu.main]]
+#        name = "1-page Resume(chn)"
+#        parent = "CV"
+#        url = "file/cv/resume_chn.pdf"
+#        weight = 3
 
-[[menu.main]]
-  name = "UsefulLinks"
-  weight = 7
-  [[menu.main]]
-    name = "Blizzard"
-    parent = "UsefulLinks"
-    url = "http://blizzard.com"
-    widget = 1
-  [[menu.main]]
-    name = "Rust"
-    parent = "UsefulLinks"
-    url = "https://www.rust-lang.org/en-US/"
-    widget = 2
-  [[menu.main]]
-    name = "Java"
-    parent = "UsefulLinks"
-    url = "https://docs.oracle.com/javase/tutorial/"
-    widget = 3
-  [[menu.main]]
-    name = "C/Cpp"
-    parent = "UsefulLinks"
-    url = "http://www.cplusplus.com/doc/tutorial/"
-    widget = 4
-  [[menu.main]]
-    name = "Markdown"
-    parent = "UsefulLinks"
-    url = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
-    widget = 5
+# [[menu.main]]
+#   name = "UsefulLinks"
+#   weight = 7
+#   [[menu.main]]
+#     name = "Blizzard"
+#     parent = "UsefulLinks"
+#     url = "http://blizzard.com"
+#     widget = 1
+#   [[menu.main]]
+#     name = "Rust"
+#     parent = "UsefulLinks"
+#     url = "https://www.rust-lang.org/en-US/"
+#     widget = 2
+#   [[menu.main]]
+#     name = "Java"
+#     parent = "UsefulLinks"
+#     url = "https://docs.oracle.com/javase/tutorial/"
+#     widget = 3
+#   [[menu.main]]
+#     name = "C/Cpp"
+#     parent = "UsefulLinks"
+#     url = "http://www.cplusplus.com/doc/tutorial/"
+#     widget = 4
+#   [[menu.main]]
+#     name = "Markdown"
+#     parent = "UsefulLinks"
+#     url = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+#     widget = 5
 
 
 # Search.
