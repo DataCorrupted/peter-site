@@ -6,7 +6,7 @@ lastmod = 2023-07-07T11:23:59
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Peter Rong"]
+authors = ["Peter Rong", "Eva"]
 
 tags = ["向内和向外"]
 summary = "当我怀念红迪的时候, 我到底在怀念什么"
