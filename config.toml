@@ -70,8 +70,6 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "PeterRong96 at gmail dot com"
-  address = "425 La Rue Rd, 2110 Watershed Science, \nDavis CA, 95616"
-  phone = "+1.530.601.3646"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -235,10 +233,10 @@ enableGitInfo = false
 #      icon_pack = "fab"
 #      link = "https://www.facebook.com/profile.php?id=100011167324159&ref=bookmarks"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/PeterRong96"
+#   [[params.social]]
+#     icon = "twitter"
+#     icon_pack = "fab"
+#     link = "//twitter.com/PeterRong96"
     
   [[params.social]]
     icon = "linkedin"
