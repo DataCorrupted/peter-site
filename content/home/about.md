@@ -11,6 +11,7 @@ weight = 10
 [interests]
   interests = [
     "Fuzzing",
+    "Compilers",
     "Software Analysis",
   ]
 
@@ -27,6 +28,9 @@ weight = 10
 
 # Biography
 
-I am a Ph.D. candidate in University of California, Davis. 
-My focus now is in fuzzing, software analysis using LLM, compiler testing. 
-You can read my papers: [_Integrity_](https://link.springer.com/chapter/10.1007/978-3-030-63086-7_20), [_Valkyrie_](https://www.cs.ucdavis.edu/~hchen/paper/rong2022valkyrie.pdf).
+I'm a research scientist in [Meta](https://about.meta.com/).
+I develop compiler optimizations to help improve the performance of our apps.
+
+I earned my bachelor degreed in [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), Ph.D. in [UC Davis](https://www.ucdavis.edu/).
+My thesis focus on fuzzing, compiler testing, and software analysis using LLM.
+You can find my papers in my [Google Scholar](https://scholar.google.com/citations?user=feGWM20AAAAJ&hl=en) page.
