@@ -9,7 +9,7 @@ draft = true
 authors = ["Peter Rong"]
 
 tags = ["Life"]
-summary = """正常人""和正常人之间的差距为什么有时候比人和狗还大"
+summary = "正常人和正常人之间的差距为什么有时候比人和狗还大"
 
 +++
 
