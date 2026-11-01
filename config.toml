@@ -58,13 +58,13 @@ enableGitInfo = false
 
   # Your details.
   name = "Yuyang(Peter) Rong"
-  role = "Graduate Student in Computer Science"
+  role = "Research Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ 
-    { name = "UC Davis", url = "https://www.ucdavis.edu/" },
-    { name = "College of Engineering", url = "https://engineering.ucdavis.edu/"} ]
+    { name = "Meta Platform Inc.", url = "https://www.meta.com/" },
+  ]
 
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -162,7 +162,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ["home-post-preview.css"]
+  custom_css = ["post-preview.css"]
   custom_js  = []
 
   # Publication types.
@@ -278,11 +278,6 @@ enableGitInfo = false
   name = "Posts"
   url = "/post"
   weight = 3
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 4
 
 [[menu.main]]
   name = "Contact"

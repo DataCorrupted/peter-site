@@ -10,19 +10,19 @@ weight = 10
 # List your academic interests.
 [interests]
   interests = [
-    "Fuzzing",
-    "Compiler testing",
-    "Software analysis using large language models",
+    "Compiler",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "B.E. in Computer Science"
   institution = "ShanghaiTech University"
+  institution_url = "https://www.shanghaitech.edu.cn/eng/"
   year = 2019
 [[education.courses]]
   course = "Ph.D. in Computer Science"
   institution = "University of California, Davis"
+  institution_url = "https://www.ucdavis.edu/"
   year = 2024
 +++
 

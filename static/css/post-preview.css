@@ -1,0 +1,15 @@
+#posts .pub-list-item {
+  font-size: 1.25rem;
+  line-height: 1.55;
+  margin-bottom: 0.75rem;
+}
+
+#posts .pub-list-item a {
+  font-weight: 700;
+}
+
+.post-list .card-simple .article-style {
+  max-height: 16.5rem;
+  overflow: hidden;
+  position: relative;
+}
