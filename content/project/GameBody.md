@@ -13,7 +13,7 @@ image_preview = "project/GameBody/GameBody.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["vision", "selected"]
+tags = ["Projects"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/DataCorrupted/GamBody_src"

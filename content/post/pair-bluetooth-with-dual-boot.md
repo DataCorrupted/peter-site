@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["Linux", "Geek", "HowTo", "Windows", "Dual-boot"]
+tags = ["Hacks"]
 summary = "When you are using dual boot, Bluetooth seems not pairing all the time. Here's a fix."
 
 +++

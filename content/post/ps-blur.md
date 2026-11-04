@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["PhotoShop", "Geek", "HowTo"]
+tags = ["Hacks"]
 summary = "Some simple tricks to do a cool blurred image backgournd"
 
 [header]

@@ -10,7 +10,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["C", "C++", "Programming"]
+tags = ["PL"]
 summary = "Skip this post if you are not confused by *++p, ++*p, *p++, *(p++), and (*p)++."
 
 +++

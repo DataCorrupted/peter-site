@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["Novel", "SiFi"]
+tags = ["Novel"]
 summary = "A short si-fi story."
 
 +++

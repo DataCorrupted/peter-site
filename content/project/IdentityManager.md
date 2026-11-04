@@ -14,7 +14,7 @@ image_preview = "project/IdentityManager/IdentityManager.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["networking", "Android"]
+tags = ["Projects"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/DataCorrupted/GamBody_src"

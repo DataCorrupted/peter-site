@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["life"]
+tags = ["Life"]
 summary = "你真的说得清自己是哪里人吗?"
 
 +++

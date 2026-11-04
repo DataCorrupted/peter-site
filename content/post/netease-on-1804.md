@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["Ubuntu", "Netease", "Geek", "HowTo"]
+tags = ["Hacks"]
 summary = "Some fixes on Ubuntu 1804 to start Netease Cloud Music"
 
 [header]

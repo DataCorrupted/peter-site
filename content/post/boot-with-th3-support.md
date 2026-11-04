@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Rong"]
 
-tags = ["Linux", "Geek", "HowTo"]
+tags = ["Hacks"]
 summary = "Some maneuvers to boot with Thunderbolt 3 support"
 
 +++
